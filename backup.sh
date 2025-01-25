@@ -1,11 +1,17 @@
+#!/usr/bin/env bash
 
+GIT='git --git-dir='$PWD'/.git'
 
-cp -r /var/lib/openwebrx/ /home/stanos/Openwebrxplus-backup/vlopenwebrx/
-cp -r /etc/openwebrx/ /home/stanos/Openwebrxplus-backup/etcopenwebrx/
+$GIT config --global user.email "stan@sailingstanos.nl"
+$GIT config --global user.name "Stanos"
+
+cp -r /var/lib/openwebrx/* /home/stanos/Openwebrxplus-backup/vlopenwebrx/
+cp -r /etc/openwebrx/* /home/stanos/Openwebrxplus-backup/etcopenwebrx/
+cd -- /home/stanos/Openwebrxplus-backup/
 pwd
 chown stanos:stanos * -R
 chmod -R ugo+rwX .
-su - stanos -c "git add vlopenwebrx"
-su - stanos -c "git add etcopenwebrx"
-su - stanos -c "git commit -m '$(date +%F)' "
-su - stanos -c "git push -u origin main" 
+$GIT add /home/stanos/Openwebrxplus-backup/vlopenwebrx
+$GIT add /home/stanos/Openwebrxplus-backup/etcopenwebrx
+$GIT commit -m "$(date +%F)" 
+$GIT push -u origin main
