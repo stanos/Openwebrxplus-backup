@@ -8,6 +8,14 @@
         "scannable": true
     },
     {
+        "name": "Drakar",
+        "frequency": 434123000,
+        "modulation": "nfm",
+        "underlying": "",
+        "description": "",
+        "scannable": true
+    },
+    {
         "name": "EHAM APR/DPR",
         "frequency": 121200000,
         "modulation": "am",
