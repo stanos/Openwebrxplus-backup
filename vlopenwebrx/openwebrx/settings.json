@@ -1,0 +1,381 @@
+{
+    "version": 8,
+    "sdrs": {
+        "rtl_sdr": {
+            "name": "RTL-SDR",
+            "type": "rtl_sdr",
+            "profiles": {
+                "87862205-95a5-40dc-aaae-2bde2a474961": {
+                    "name": "ADSB",
+                    "center_freq": 1090000000,
+                    "samp_rate": 2800000,
+                    "start_freq": 1090000000,
+                    "start_mod": "adsb",
+                    "tuning_step": 1,
+                    "direct_sampling": 0
+                },
+                "70cm": {
+                    "name": "70CM",
+                    "center_freq": 438800000,
+                    "samp_rate": 2800000,
+                    "start_freq": 439275000,
+                    "start_mod": "nfm",
+                    "tuning_step": 5000
+                },
+                "c9b89714-f506-4c83-aa27-39067bedd17f": {
+                    "name": "PMR446",
+                    "center_freq": 446093000,
+                    "samp_rate": 2800000,
+                    "start_freq": 446093000,
+                    "start_mod": "nfm",
+                    "tuning_step": 1
+                },
+                "2bd548c5-017a-4c91-b922-8f1b0db937fc": {
+                    "name": "433Mhz ISM",
+                    "center_freq": 433920000,
+                    "samp_rate": 2500000,
+                    "start_freq": 433920000,
+                    "start_mod": "ism",
+                    "tuning_step": 1
+                },
+                "c5cf905d-6d31-4da8-a867-c9e3842cc737": {
+                    "name": "DAB",
+                    "center_freq": 220352000,
+                    "samp_rate": 2800000,
+                    "start_freq": 220352000,
+                    "start_mod": "dab",
+                    "tuning_step": 1
+                },
+                "009549c7-5b34-4cfd-bb84-3473e6c84723": {
+                    "name": "AIS",
+                    "center_freq": 161975000,
+                    "samp_rate": 2800000,
+                    "start_freq": 161975000,
+                    "start_mod": "ais",
+                    "tuning_step": 1
+                },
+                "6b264aa0-49f9-4b00-8fed-a2dcc720b7dc": {
+                    "name": "AIRBAND",
+                    "center_freq": 120000000,
+                    "samp_rate": 2800000,
+                    "start_freq": 120000000,
+                    "start_mod": "am",
+                    "tuning_step": 1
+                },
+                "2m": {
+                    "name": "2M",
+                    "center_freq": 145000000,
+                    "samp_rate": 2800000,
+                    "start_freq": 145725000,
+                    "start_mod": "nfm",
+                    "tuning_step": 5000
+                },
+                "012ab05d-5713-4c16-a203-cf4fccb71198": {
+                    "name": "FM BROADCAST",
+                    "center_freq": 100000000,
+                    "samp_rate": 2800000,
+                    "start_freq": 102700000,
+                    "start_mod": "wfm",
+                    "tuning_step": 1
+                },
+                "5b84b7ca-1b0f-4836-b578-0063bb836cf0": {
+                    "name": "4M",
+                    "center_freq": 70250000,
+                    "samp_rate": 2800000,
+                    "start_freq": 70250000,
+                    "start_mod": "usb",
+                    "tuning_step": 1
+                },
+                "983d1ddb-7627-45d2-9b54-62b9736e3432": {
+                    "name": "6M",
+                    "center_freq": 52000000,
+                    "samp_rate": 2800000,
+                    "start_freq": 52000000,
+                    "start_mod": "usb",
+                    "tuning_step": 1
+                },
+                "bf85c73d-89e8-48eb-a729-bc4b166592c4": {
+                    "name": "8M",
+                    "center_freq": 43000000,
+                    "samp_rate": 2800000,
+                    "start_freq": 43000000,
+                    "start_mod": "usb",
+                    "tuning_step": 1
+                },
+                "d49dda0c-c7de-4250-8543-f24f7b131e83": {
+                    "name": "10M",
+                    "center_freq": 29000000,
+                    "samp_rate": 2800000,
+                    "start_freq": 29000000,
+                    "start_mod": "usb",
+                    "tuning_step": 1
+                }
+            },
+            "always-on": false,
+            "services": true
+        },
+        "e022839d-1bc5-4054-b8ab-a48a6499f1d5": {
+            "name": "RSP1A",
+            "type": "sdrplay",
+            "profiles": {
+                "5b84b7ca-1b0f-4836-b578-0063bb836cf0": {
+                    "name": "4M",
+                    "center_freq": 70250000,
+                    "samp_rate": 2048000,
+                    "start_freq": 70250000,
+                    "start_mod": "usb",
+                    "tuning_step": 1
+                },
+                "983d1ddb-7627-45d2-9b54-62b9736e3432": {
+                    "name": "6M",
+                    "center_freq": 52000000,
+                    "samp_rate": 2048000,
+                    "start_freq": 52000000,
+                    "start_mod": "usb",
+                    "tuning_step": 1
+                },
+                "bf85c73d-89e8-48eb-a729-bc4b166592c4": {
+                    "name": "8M",
+                    "center_freq": 43000000,
+                    "samp_rate": 2048000,
+                    "start_freq": 43000000,
+                    "start_mod": "usb",
+                    "tuning_step": 1
+                },
+                "d49dda0c-c7de-4250-8543-f24f7b131e83": {
+                    "name": "10M",
+                    "center_freq": 29000000,
+                    "samp_rate": 2048000,
+                    "start_freq": 29000000,
+                    "start_mod": "usb",
+                    "tuning_step": 1
+                },
+                "20a8b1cd-037a-4d8b-a60f-61862793cf11": {
+                    "name": "11M CB",
+                    "center_freq": 27000000,
+                    "samp_rate": 2800000,
+                    "start_freq": 27000000,
+                    "start_mod": "am",
+                    "tuning_step": 1
+                },
+                "ebecee9b-e47a-4ac9-a47d-a59dcd921cab": {
+                    "name": "12M",
+                    "center_freq": 24900000,
+                    "samp_rate": 2048000,
+                    "start_freq": 24900000,
+                    "start_mod": "usb",
+                    "tuning_step": 1,
+                    "direct_sampling": 2
+                },
+                "09c3ffbb-6b94-43fa-a3f8-a56709125d42": {
+                    "name": "15M",
+                    "center_freq": 21200000,
+                    "samp_rate": 2048000,
+                    "start_freq": 21200000,
+                    "start_mod": "usb",
+                    "tuning_step": 1,
+                    "direct_sampling": 2
+                },
+                "fbcd8655-ab50-4708-ba48-fd10777ac36b": {
+                    "name": "17M",
+                    "center_freq": 18100000,
+                    "samp_rate": 2048000,
+                    "start_freq": 18100000,
+                    "start_mod": "usb",
+                    "tuning_step": 1,
+                    "direct_sampling": 2
+                },
+                "532a84bb-bf19-4237-94cf-909a49f757a3": {
+                    "name": "20M",
+                    "center_freq": 14150000,
+                    "samp_rate": 2048000,
+                    "start_freq": 15150000,
+                    "start_mod": "usb",
+                    "tuning_step": 1,
+                    "direct_sampling": 2
+                },
+                "bec5ac11-fa20-48eb-b44c-9fb002f0dd3b": {
+                    "name": "30M",
+                    "center_freq": 10175000,
+                    "samp_rate": 2048000,
+                    "start_freq": 10175000,
+                    "start_mod": "lsb",
+                    "tuning_step": 1,
+                    "direct_sampling": 2
+                },
+                "d6bdc4ee-cca2-4068-8f3f-e6385a6eb0d3": {
+                    "name": "40M",
+                    "center_freq": 7150000,
+                    "samp_rate": 3000000,
+                    "start_freq": 7150000,
+                    "start_mod": "lsb",
+                    "tuning_step": 1,
+                    "direct_sampling": 2
+                },
+                "fa190290-ccfc-4705-bf95-5b5d71f91838": {
+                    "name": "60M",
+                    "center_freq": 5000000,
+                    "samp_rate": 3000000,
+                    "start_freq": 5000000,
+                    "start_mod": "lsb",
+                    "tuning_step": 1,
+                    "direct_sampling": 2
+                },
+                "7794162b-e99b-4147-bcf1-896caebcbd6e": {
+                    "name": "80M",
+                    "center_freq": 3700000,
+                    "samp_rate": 3000000,
+                    "start_freq": 3700000,
+                    "start_mod": "lsb",
+                    "tuning_step": 1,
+                    "direct_sampling": 2
+                },
+                "d8e648ec-c187-45fb-9ead-8c785d0d8f44": {
+                    "name": "160M",
+                    "center_freq": 1900000,
+                    "samp_rate": 3000000,
+                    "start_freq": 1900000,
+                    "start_mod": "lsb",
+                    "tuning_step": 1,
+                    "direct_sampling": 2
+                },
+                "06225923-c3cd-409c-b899-d11c3036d5d7": {
+                    "name": "630M",
+                    "center_freq": 475000,
+                    "samp_rate": 3000000,
+                    "start_freq": 475000,
+                    "start_mod": "lsb",
+                    "tuning_step": 1,
+                    "direct_sampling": 2
+                },
+                "b428e61e-5688-425c-99b9-50be18210a30": {
+                    "name": "2200M",
+                    "center_freq": 136000,
+                    "samp_rate": 3000000,
+                    "start_freq": 136000,
+                    "start_mod": "lsb",
+                    "tuning_step": 1,
+                    "direct_sampling": 2
+                }
+            },
+            "always-on": false
+        }
+    },
+    "receiver_name": "PD7SVD",
+    "receiver_location": "Gouda, Netherlands",
+    "receiver_asl": 8,
+    "receiver_admin": "info@pd7svd.nl",
+    "bandplan_region": 1,
+    "receiver_gps": {
+        "lat": 52.0128247,
+        "lon": 4.750316
+    },
+    "gps_updates": false,
+    "photo_title": "PD7SVD",
+    "photo_desc": "RTL-SDR: UHF-VHF Antenna <br />\r\nRSP1A: EFHW for 10, 20, 40m",
+    "max_clients": 20,
+    "keep_files": 20,
+    "session_timeout": 0,
+    "usage_policy_url": "policy",
+    "allow_chat": true,
+    "allow_audio_recording": true,
+    "allow_center_freq_changes": true,
+    "magic_key": "stanisthebest",
+    "receiver_keys": [],
+    "waterfall_scheme": "EclipseWaterfall",
+    "fft_fps": 16,
+    "fft_size": 8196,
+    "fft_voverlap_factor": 0.3,
+    "waterfall_levels": {
+        "min": -88.0,
+        "max": -20.0
+    },
+    "waterfall_auto_levels": {
+        "min": 3.0,
+        "max": 10.0
+    },
+    "waterfall_auto_level_default_mode": false,
+    "waterfall_auto_min_range": 50,
+    "audio_compression": "adpcm",
+    "fft_compression": "adpcm",
+    "tuning_precision": 2,
+    "eibi_bookmarks_range": 0,
+    "repeater_range": 0,
+    "map_type": "leaflet",
+    "google_maps_api_key": "",
+    "openweathermap_api_key": "",
+    "map_position_retention_time": 7200,
+    "map_call_retention_time": 300,
+    "map_max_calls": 5,
+    "map_ignore_indirect_reports": false,
+    "map_prefer_recent_reports": true,
+    "callsign_url": "https://www.qrzcq.com/call/{}",
+    "vessel_url": "https://www.vesselfinder.com/vessels/details/{}",
+    "flight_url": "https://flightaware.com/live/flight/{}",
+    "modes_url": "https://flightaware.com/live/modes/{}/redirect",
+    "aprs_igate_enabled": true,
+    "aprs_callsign": "PD7SVD",
+    "aprs_igate_server": "euro.aprs2.net",
+    "aprs_igate_password": "",
+    "aprs_igate_beacon": false,
+    "aprs_igate_symbol": "R&",
+    "aprs_igate_comment": "OpenWebRX APRS gateway",
+    "pskreporter_enabled": false,
+    "pskreporter_callsign": "N0CALL",
+    "wsprnet_enabled": true,
+    "wsprnet_callsign": "PD7SVD",
+    "mqtt_enabled": false,
+    "mqtt_host": "localhost",
+    "mqtt_use_ssl": false,
+    "rig_enabled": false,
+    "rig_model": 2,
+    "rig_device": "127.0.0.1:4533",
+    "rig_address": 0,
+    "squelch_auto_margin": 10,
+    "digimodes_fft_size": 2048,
+    "wfm_deemphasis_tau": 5e-05,
+    "wfm_rds_rbds": false,
+    "cw_showcw": false,
+    "dsc_show_errors": true,
+    "digital_voice_dmr_id_lookup": true,
+    "digital_voice_nxdn_id_lookup": true,
+    "adsb_ttl": 900,
+    "vdl2_ttl": 1800,
+    "hfdl_ttl": 1800,
+    "acars_ttl": 1800,
+    "paging_charset": "US",
+    "paging_filter": true,
+    "fax_lpm": 120,
+    "fax_postprocess": true,
+    "fax_color": true,
+    "fax_am": false,
+    "decoding_queue_workers": 2,
+    "decoding_queue_length": 10,
+    "wsjt_decoding_depth": 3,
+    "wsjt_decoding_depths": {
+        "jt65": 1
+    },
+    "js8_decoding_depth": 3,
+    "js8_enabled_profiles": [
+        "normal",
+        "slow"
+    ],
+    "fst4_enabled_intervals": [
+        15,
+        30
+    ],
+    "fst4w_enabled_intervals": [
+        120,
+        300
+    ],
+    "q65_enabled_combinations": [
+        "A30",
+        "C60",
+        "E120"
+    ],
+    "services_enabled": true,
+    "services_decoders": [
+        "ais",
+        "adsb"
+    ]
+}
