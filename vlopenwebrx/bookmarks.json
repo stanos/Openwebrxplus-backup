@@ -86,5 +86,93 @@
         "underlying": "",
         "description": "",
         "scannable": true
+    },
+    {
+        "name": "Slam!",
+        "frequency": 95900000,
+        "modulation": "wfm",
+        "underlying": "",
+        "description": "",
+        "scannable": true
+    },
+    {
+        "name": "RADIO 538",
+        "frequency": 102700000,
+        "modulation": "wfm",
+        "underlying": "",
+        "description": "",
+        "scannable": true
+    },
+    {
+        "name": "NPO 3FM",
+        "frequency": 96500000,
+        "modulation": "wfm",
+        "underlying": "",
+        "description": "",
+        "scannable": true
+    },
+    {
+        "name": "BNR",
+        "frequency": 99900000,
+        "modulation": "wfm",
+        "underlying": "",
+        "description": "",
+        "scannable": true
+    },
+    {
+        "name": "EHAM APR/DPR",
+        "frequency": 119050000,
+        "modulation": "am",
+        "underlying": "",
+        "description": "",
+        "scannable": true
+    },
+    {
+        "name": "EHAM APR/DPR",
+        "frequency": 121200000,
+        "modulation": "am",
+        "underlying": "",
+        "description": "",
+        "scannable": true
+    },
+    {
+        "name": "RADIO 538",
+        "frequency": 102700000,
+        "modulation": "wfm",
+        "underlying": "",
+        "description": "",
+        "scannable": false
+    },
+    {
+        "name": "QMUSIC",
+        "frequency": 100700000,
+        "modulation": "wfm",
+        "underlying": "",
+        "description": "",
+        "scannable": false
+    },
+    {
+        "name": "BNR",
+        "frequency": 100100000,
+        "modulation": "wfm",
+        "underlying": "",
+        "description": "",
+        "scannable": false
+    },
+    {
+        "name": "NPO RADIO 1",
+        "frequency": 98900000,
+        "modulation": "wfm",
+        "underlying": "",
+        "description": "",
+        "scannable": false
+    },
+    {
+        "name": "P2000",
+        "frequency": 169650000,
+        "modulation": "page",
+        "underlying": "",
+        "description": "",
+        "scannable": false
     }
 ]

@@ -46,6 +46,14 @@
                     "start_mod": "dab",
                     "tuning_step": 1
                 },
+                "47a94eab-aa96-4d23-b25a-8c5436f5c4a4": {
+                    "name": "P2000",
+                    "center_freq": 169650000,
+                    "samp_rate": 2800000,
+                    "start_freq": 169650000,
+                    "start_mod": "page",
+                    "tuning_step": 1
+                },
                 "009549c7-5b34-4cfd-bb84-3473e6c84723": {
                     "name": "AIS",
                     "center_freq": 161975000,
@@ -264,7 +272,7 @@
     "receiver_name": "PD7SVD",
     "receiver_location": "Gouda, Netherlands",
     "receiver_asl": 8,
-    "receiver_admin": "info@pd7svd.nl",
+    "receiver_admin": "websdr@pd7svd.nl",
     "bandplan_region": 1,
     "receiver_gps": {
         "lat": 52.0128247,
