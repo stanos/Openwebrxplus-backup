@@ -391,7 +391,7 @@
     "eibi_bookmarks_range": 0,
     "repeater_range": 0,
     "map_type": "leaflet",
-    "google_maps_api_key": "AIzaSyC81sb71Xv7Nn6h7rmQhrTrR93klaIPTCk",
+    "google_maps_api_key": "",
     "openweathermap_api_key": "",
     "map_position_retention_time": 7200,
     "map_call_retention_time": 300,
