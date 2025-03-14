@@ -26091,7 +26091,7 @@
     "time2": 2300,
     "days": "1234567",
     "itu": "RUS",
-    "name": "Novosibir Volmet x10,40",
+    "name": "Novosibir Volmet x07,37",
     "lang": "Russian: Russia (137m), Ukraine (8m), Kazakhstan (6m), Belarus (1m)",
     "tgt": "Commonwealth of Independent States (former Soviet Union)",
     "src": "RUS-nv",
@@ -27042,7 +27042,7 @@
     "src": "RUS-sk",
     "pers": 1,
     "date1": 20241101,
-    "date2": 20240228
+    "date2": 20250228
   },
   {
     "freq": 3243000,
@@ -27056,7 +27056,7 @@
     "tgt": "Eastern Europe, incl. North Africa / Middle East",
     "src": "RUS-sk",
     "pers": 1,
-    "date1": 20240301,
+    "date1": 20250301,
     "date2": 20240430
   },
   {
@@ -27655,8 +27655,8 @@
     "lang": "English: UK (60m), USA (225m), India (200m), others",
     "tgt": "Indonesia",
     "src": "INS-p",
-    "pers": 8,
-    "date1": 0,
+    "pers": 1,
+    "date1": 20250130,
     "date2": 0
   },
   {
@@ -27670,8 +27670,8 @@
     "lang": "Mandarin (Standard Chinese / Beijing dialect): China (840m)",
     "tgt": "Indonesia",
     "src": "INS-p",
-    "pers": 8,
-    "date1": 0,
+    "pers": 1,
+    "date1": 20250130,
     "date2": 0
   },
   {
@@ -27685,8 +27685,8 @@
     "lang": "Japanese: Japan (122m)",
     "tgt": "Indonesia",
     "src": "INS-p",
-    "pers": 8,
-    "date1": 0,
+    "pers": 1,
+    "date1": 20250130,
     "date2": 0
   },
   {
@@ -27700,8 +27700,8 @@
     "lang": "English: UK (60m), USA (225m), India (200m), others",
     "tgt": "Indonesia",
     "src": "INS-p",
-    "pers": 8,
-    "date1": 0,
+    "pers": 1,
+    "date1": 20250130,
     "date2": 0
   },
   {
@@ -27715,8 +27715,8 @@
     "lang": "Indonesian / Bahasa Indonesia: Indonesia (140m)",
     "tgt": "Indonesia",
     "src": "INS-p",
-    "pers": 8,
-    "date1": 0,
+    "pers": 1,
+    "date1": 20250130,
     "date2": 0
   },
   {
@@ -27730,8 +27730,8 @@
     "lang": "Mandarin (Standard Chinese / Beijing dialect): China (840m)",
     "tgt": "Indonesia",
     "src": "INS-p",
-    "pers": 8,
-    "date1": 0,
+    "pers": 1,
+    "date1": 20250130,
     "date2": 0
   },
   {
@@ -27745,8 +27745,8 @@
     "lang": "Arabic (300m)",
     "tgt": "Indonesia",
     "src": "INS-p",
-    "pers": 8,
-    "date1": 0,
+    "pers": 1,
+    "date1": 20250130,
     "date2": 0
   },
   {
@@ -27760,8 +27760,8 @@
     "lang": "Spanish / Castellano: Spain (30m), Latin America (336m), USA (34m)",
     "tgt": "Indonesia",
     "src": "INS-p",
-    "pers": 8,
-    "date1": 0,
+    "pers": 1,
+    "date1": 20250130,
     "date2": 0
   },
   {
@@ -27775,8 +27775,8 @@
     "lang": "German: Germany (80m), Austria, Switzerland, Belgium",
     "tgt": "Indonesia",
     "src": "INS-p",
-    "pers": 8,
-    "date1": 0,
+    "pers": 1,
+    "date1": 20250130,
     "date2": 0
   },
   {
@@ -27790,8 +27790,8 @@
     "lang": "English: UK (60m), USA (225m), India (200m), others",
     "tgt": "Indonesia",
     "src": "INS-p",
-    "pers": 8,
-    "date1": 0,
+    "pers": 1,
+    "date1": 20250130,
     "date2": 0
   },
   {
@@ -27805,8 +27805,8 @@
     "lang": "French: France (53m), Canada (7m), Belgium (4m), Switzerland (1m)",
     "tgt": "Indonesia",
     "src": "INS-p",
-    "pers": 8,
-    "date1": 0,
+    "pers": 1,
+    "date1": 20250130,
     "date2": 0
   },
   {
@@ -27820,8 +27820,8 @@
     "lang": "English: UK (60m), USA (225m), India (200m), others",
     "tgt": "Indonesia",
     "src": "INS-p",
-    "pers": 8,
-    "date1": 0,
+    "pers": 1,
+    "date1": 20250130,
     "date2": 0
   },
   {
@@ -27835,8 +27835,8 @@
     "lang": "Japanese: Japan (122m)",
     "tgt": "Indonesia",
     "src": "INS-p",
-    "pers": 8,
-    "date1": 0,
+    "pers": 1,
+    "date1": 20250130,
     "date2": 0
   },
   {
@@ -27912,7 +27912,7 @@
     "src": "RUS-rp",
     "pers": 1,
     "date1": 20241101,
-    "date2": 20240228
+    "date2": 20250228
   },
   {
     "freq": 3364000,
@@ -27941,7 +27941,7 @@
     "tgt": "Russian Federation",
     "src": "RUS-rp",
     "pers": 1,
-    "date1": 20240301,
+    "date1": 20250301,
     "date2": 20240430
   },
   {
@@ -29277,7 +29277,7 @@
     "src": "RUS-rp",
     "pers": 1,
     "date1": 20241101,
-    "date2": 20240228
+    "date2": 20250228
   },
   {
     "freq": 3756000,
@@ -29291,7 +29291,7 @@
     "tgt": "Eastern Europe, incl. North Africa / Middle East",
     "src": "RUS-rp",
     "pers": 1,
-    "date1": 20240301,
+    "date1": 20250301,
     "date2": 20240430
   },
   {
@@ -29337,7 +29337,7 @@
     "src": "RUS-vo",
     "pers": 1,
     "date1": 20241201,
-    "date2": 20240228
+    "date2": 20250228
   },
   {
     "freq": 3850000,
@@ -29351,7 +29351,7 @@
     "tgt": "Eastern Europe, incl. North Africa / Middle East",
     "src": "RUS-vo",
     "pers": 1,
-    "date1": 20240301,
+    "date1": 20250301,
     "date2": 20240430
   },
   {
@@ -29687,17 +29687,17 @@
   {
     "freq": 3945000,
     "mode": "usb",
-    "time1": 950,
-    "time2": 1400,
-    "days": "12345..",
+    "time1": 1000,
+    "time2": 1130,
+    "days": "1234567",
     "itu": "J",
     "name": "Radio Nikkei 2",
     "lang": "Japanese: Japan (122m)",
     "tgt": "Far East",
     "src": "J-c",
-    "pers": 1,
-    "date1": 0,
-    "date2": 0
+    "pers": 6,
+    "date1": 20240602,
+    "date2": 20240602
   },
   {
     "freq": 3945000,
@@ -29959,6 +29959,21 @@
     "mode": "usb",
     "time1": 2000,
     "time2": 2400,
+    "days": "1234567",
+    "itu": "AND",
+    "name": "Aqui Radio Andorra",
+    "lang": "French: France (53m), Canada (7m), Belgium (4m), Switzerland (1m)",
+    "tgt": "Europe, incl. North Africa / Middle East",
+    "src": "D-k",
+    "pers": 6,
+    "date1": 20241231,
+    "date2": 20241231
+  },
+  {
+    "freq": 3985000,
+    "mode": "usb",
+    "time1": 2000,
+    "time2": 2200,
     "days": ".......",
     "itu": "AND",
     "name": "Aqui Radio Andorra",
@@ -29966,8 +29981,23 @@
     "tgt": "Europe, incl. North Africa / Middle East",
     "src": "D-k",
     "pers": 6,
-    "date1": 20241220,
-    "date2": 20241231
+    "date1": 20250202,
+    "date2": 20250202
+  },
+  {
+    "freq": 3985000,
+    "mode": "usb",
+    "time1": 2000,
+    "time2": 2200,
+    "days": ".......",
+    "itu": "AND",
+    "name": "Aqui Radio Andorra",
+    "lang": "French: France (53m), Canada (7m), Belgium (4m), Switzerland (1m)",
+    "tgt": "Europe, incl. North Africa / Middle East",
+    "src": "D-k",
+    "pers": 6,
+    "date1": 20250202,
+    "date2": 20250302
   },
   {
     "freq": 3985000,
@@ -30585,6 +30615,21 @@
     "date2": 0
   },
   {
+    "freq": 4032000,
+    "mode": "usb",
+    "time1": 100,
+    "time2": 330,
+    "days": ".....6.",
+    "itu": "USA",
+    "name": "Ballsmacker Radio",
+    "lang": "English: UK (60m), USA (225m), India (200m), others",
+    "tgt": "Eastern North America",
+    "src": "USA-xx",
+    "pers": 1,
+    "date1": 0,
+    "date2": 0
+  },
+  {
     "freq": 4045000,
     "mode": "usb",
     "time1": 1100,
@@ -30613,6 +30658,21 @@
     "pers": 2,
     "date1": 0,
     "date2": 0
+  },
+  {
+    "freq": 4105000,
+    "mode": "cw",
+    "time1": 0,
+    "time2": 2400,
+    "days": "1234567",
+    "itu": "CHN",
+    "name": "XSG Shanghai Radio",
+    "lang": "Morse Station",
+    "tgt": "Far East",
+    "src": "CHN-sh",
+    "pers": 6,
+    "date1": 20250212,
+    "date2": 20250212
   },
   {
     "freq": 4125000,
@@ -31001,7 +31061,7 @@
     "tgt": "",
     "src": "POL-p",
     "pers": 1,
-    "date1": 20240301,
+    "date1": 20250301,
     "date2": 20240430
   },
   {
@@ -31676,7 +31736,7 @@
     "tgt": "Eastern Europe, incl. North Africa / Middle East",
     "src": "RUS-sk",
     "pers": 1,
-    "date1": 20240301,
+    "date1": 20250301,
     "date2": 20240430
   },
   {
@@ -31722,7 +31782,7 @@
     "src": "RUS-sk",
     "pers": 1,
     "date1": 20241101,
-    "date2": 20240228
+    "date2": 20250228
   },
   {
     "freq": 4316000,
@@ -33011,7 +33071,7 @@
     "tgt": "",
     "src": "POL-p",
     "pers": 1,
-    "date1": 20240301,
+    "date1": 20250301,
     "date2": 20240430
   },
   {
@@ -33041,7 +33101,7 @@
     "tgt": "",
     "src": "POL-p",
     "pers": 1,
-    "date1": 20240301,
+    "date1": 20250301,
     "date2": 20240430
   },
   {
@@ -33072,7 +33132,7 @@
     "src": "POL-p",
     "pers": 1,
     "date1": 20241101,
-    "date2": 20240228
+    "date2": 20250228
   },
   {
     "freq": 4540000,
@@ -35247,7 +35307,7 @@
     "src": "POL-p",
     "pers": 1,
     "date1": 20241101,
-    "date2": 20240228
+    "date2": 20250228
   },
   {
     "freq": 4909000,
@@ -35262,7 +35322,7 @@
     "src": "POL-p",
     "pers": 1,
     "date1": 20241101,
-    "date2": 20240228
+    "date2": 20250228
   },
   {
     "freq": 4909000,
@@ -35277,7 +35337,7 @@
     "src": "POL-p",
     "pers": 1,
     "date1": 20241101,
-    "date2": 20240228
+    "date2": 20250228
   },
   {
     "freq": 4920000,
@@ -35531,7 +35591,7 @@
     "tgt": "Eastern Europe, incl. North Africa / Middle East",
     "src": "RUS-vo",
     "pers": 1,
-    "date1": 20240301,
+    "date1": 20250301,
     "date2": 20240430
   },
   {
@@ -35562,7 +35622,7 @@
     "src": "RUS-vo",
     "pers": 1,
     "date1": 20241201,
-    "date2": 20240228
+    "date2": 20250228
   },
   {
     "freq": 4955000,
@@ -36120,6 +36180,21 @@
     "date2": 0
   },
   {
+    "freq": 5040000,
+    "mode": "am",
+    "time1": 1830,
+    "time2": 1959,
+    "days": "1234567",
+    "itu": "VUT",
+    "name": "Radio Vanuatu",
+    "lang": "Bislama: Vanuatu (10,000)",
+    "tgt": "Vanuatu",
+    "src": "VUT",
+    "pers": 6,
+    "date1": 20250201,
+    "date2": 20250228
+  },
+  {
     "freq": 5045000,
     "mode": "am",
     "time1": 830,
@@ -36597,7 +36672,7 @@
     "src": "POL-p",
     "pers": 1,
     "date1": 20241101,
-    "date2": 20240228
+    "date2": 20250228
   },
   {
     "freq": 5082000,
@@ -36612,7 +36687,7 @@
     "src": "POL-p",
     "pers": 1,
     "date1": 20241101,
-    "date2": 20240228
+    "date2": 20250228
   },
   {
     "freq": 5085000,
@@ -36625,8 +36700,23 @@
     "lang": "English: UK (60m), USA (225m), India (200m), others",
     "tgt": "North America",
     "src": "USA-L",
+    "pers": 6,
+    "date1": 20241027,
+    "date2": 20250129
+  },
+  {
+    "freq": 5085000,
+    "mode": "am",
+    "time1": 100,
+    "time2": 430,
+    "days": "1234567",
+    "itu": "USA",
+    "name": "WTWW Lebanon, TN",
+    "lang": "English: UK (60m), USA (225m), India (200m), others",
+    "tgt": "North America",
+    "src": "USA-L",
     "pers": 2,
-    "date1": 0,
+    "date1": 20250130,
     "date2": 0
   },
   {
@@ -36640,9 +36730,9 @@
     "lang": "English: UK (60m), USA (225m), India (200m), others",
     "tgt": "North America",
     "src": "USA-L",
-    "pers": 2,
-    "date1": 0,
-    "date2": 0
+    "pers": 6,
+    "date1": 20241027,
+    "date2": 20250129
   },
   {
     "freq": 5100000,
@@ -37121,7 +37211,7 @@
     "tgt": "",
     "src": "POL-p",
     "pers": 1,
-    "date1": 20240301,
+    "date1": 20250301,
     "date2": 20240430
   },
   {
@@ -37211,7 +37301,7 @@
     "tgt": "Russian Federation",
     "src": "RUS-rp",
     "pers": 1,
-    "date1": 20240301,
+    "date1": 20250301,
     "date2": 20240430
   },
   {
@@ -37242,7 +37332,7 @@
     "src": "RUS-rp",
     "pers": 1,
     "date1": 20241101,
-    "date2": 20240228
+    "date2": 20250228
   },
   {
     "freq": 5371000,
@@ -37256,7 +37346,7 @@
     "tgt": "",
     "src": "POL-p",
     "pers": 1,
-    "date1": 20240301,
+    "date1": 20250301,
     "date2": 20240430
   },
   {
@@ -37287,7 +37377,7 @@
     "src": "POL-p",
     "pers": 1,
     "date1": 20241101,
-    "date2": 20240228
+    "date2": 20250228
   },
   {
     "freq": 5371000,
@@ -37301,7 +37391,7 @@
     "tgt": "",
     "src": "POL-p",
     "pers": 1,
-    "date1": 20240301,
+    "date1": 20250301,
     "date2": 20240430
   },
   {
@@ -37332,7 +37422,7 @@
     "src": "POL-p",
     "pers": 1,
     "date1": 20241101,
-    "date2": 20240228
+    "date2": 20250228
   },
   {
     "freq": 5380000,
@@ -37377,7 +37467,7 @@
     "src": "POL-p",
     "pers": 1,
     "date1": 20241101,
-    "date2": 20240228
+    "date2": 20250228
   },
   {
     "freq": 5409000,
@@ -37407,7 +37497,7 @@
     "src": "RUS-or",
     "pers": 1,
     "date1": 20250101,
-    "date2": 20240228
+    "date2": 20250228
   },
   {
     "freq": 5425000,
@@ -37467,7 +37557,7 @@
     "src": "POL-p",
     "pers": 1,
     "date1": 20241101,
-    "date2": 20240228
+    "date2": 20250228
   },
   {
     "freq": 5448000,
@@ -37496,7 +37586,7 @@
     "tgt": "Eastern Europe, incl. North Africa / Middle East",
     "src": "RUS-rp",
     "pers": 1,
-    "date1": 20240301,
+    "date1": 20250301,
     "date2": 20240430
   },
   {
@@ -37527,7 +37617,7 @@
     "src": "RUS-rp",
     "pers": 1,
     "date1": 20241101,
-    "date2": 20240228
+    "date2": 20250228
   },
   {
     "freq": 5450000,
@@ -38441,7 +38531,7 @@
     "tgt": "Russian Federation",
     "src": "RUS-m",
     "pers": 1,
-    "date1": 20240301,
+    "date1": 20250301,
     "date2": 20240430
   },
   {
@@ -38456,7 +38546,7 @@
     "tgt": "Far East",
     "src": "RUS-xx",
     "pers": 1,
-    "date1": 20240301,
+    "date1": 20250301,
     "date2": 20240430
   },
   {
@@ -38471,7 +38561,7 @@
     "tgt": "Eastern Europe, incl. North Africa / Middle East",
     "src": "RUS-xx",
     "pers": 1,
-    "date1": 20240301,
+    "date1": 20250301,
     "date2": 20240430
   },
   {
@@ -38951,7 +39041,7 @@
     "tgt": "",
     "src": "POL-p",
     "pers": 1,
-    "date1": 20240301,
+    "date1": 20250301,
     "date2": 20240430
   },
   {
@@ -39042,7 +39132,7 @@
     "src": "POL-p",
     "pers": 1,
     "date1": 20241101,
-    "date2": 20240228
+    "date2": 20250228
   },
   {
     "freq": 5800000,
@@ -39222,7 +39312,7 @@
     "src": "RUS-m",
     "pers": 1,
     "date1": 20241101,
-    "date2": 20240228
+    "date2": 20250228
   },
   {
     "freq": 5833000,
@@ -39236,7 +39326,7 @@
     "tgt": "Russian Federation",
     "src": "RUS-m",
     "pers": 1,
-    "date1": 20240301,
+    "date1": 20250301,
     "date2": 20240430
   },
   {
@@ -39715,9 +39805,9 @@
     "lang": "English: UK (60m), USA (225m), India (200m), others",
     "tgt": "Europe, incl. North Africa / Middle East",
     "src": "XUU",
-    "pers": 1,
-    "date1": 0,
-    "date2": 0
+    "pers": 6,
+    "date1": 20241027,
+    "date2": 20250131
   },
   {
     "freq": 5890000,
@@ -41021,8 +41111,8 @@
     "tgt": "Russian Federation",
     "src": "RUS-xx",
     "pers": 1,
-    "date1": 20240201,
-    "date2": 20240228
+    "date1": 20250201,
+    "date2": 20250228
   },
   {
     "freq": 5943000,
@@ -42581,8 +42671,8 @@
     "tgt": "Central Asia",
     "src": "IRN-s",
     "pers": 6,
-    "date1": 20240301,
-    "date2": 20240330
+    "date1": 20250301,
+    "date2": 20250330
   },
   {
     "freq": 5995000,
@@ -42842,6 +42932,21 @@
   {
     "freq": 6000000,
     "mode": "am",
+    "time1": 600,
+    "time2": 700,
+    "days": "1234567",
+    "itu": "CUB",
+    "name": "Radio Habana Cuba",
+    "lang": "English: UK (60m), USA (225m), India (200m), others",
+    "tgt": "Eastern North America",
+    "src": "CUB-q",
+    "pers": 6,
+    "date1": 20250216,
+    "date2": 20250216
+  },
+  {
+    "freq": 6000000,
+    "mode": "am",
     "time1": 700,
     "time2": 730,
     "days": "......7",
@@ -42898,6 +43003,36 @@
     "pers": 0,
     "date1": 0,
     "date2": 0
+  },
+  {
+    "freq": 6005000,
+    "mode": "am",
+    "time1": 1700,
+    "time2": 1900,
+    "days": ".......",
+    "itu": "AND",
+    "name": "Aqui Radio Andorra",
+    "lang": "French: France (53m), Canada (7m), Belgium (4m), Switzerland (1m)",
+    "tgt": "Europe, incl. North Africa / Middle East",
+    "src": "D-k",
+    "pers": 6,
+    "date1": 20250202,
+    "date2": 20250202
+  },
+  {
+    "freq": 6005000,
+    "mode": "am",
+    "time1": 1700,
+    "time2": 1900,
+    "days": ".......",
+    "itu": "AND",
+    "name": "Aqui Radio Andorra",
+    "lang": "French: France (53m), Canada (7m), Belgium (4m), Switzerland (1m)",
+    "tgt": "Europe, incl. North Africa / Middle East",
+    "src": "D-k",
+    "pers": 6,
+    "date1": 20250202,
+    "date2": 20250302
   },
   {
     "freq": 6005000,
@@ -43140,7 +43275,7 @@
     "date2": 0
   },
   {
-    "freq": 6010000,
+    "freq": 6010100,
     "mode": "am",
     "time1": 0,
     "time2": 2400,
@@ -43398,7 +43533,7 @@
     "freq": 6017000,
     "mode": "am",
     "time1": 2230,
-    "time2": 700,
+    "time2": 200,
     "days": "xxxxxxx",
     "itu": "CLM",
     "name": "Organ.Radial El Prado",
@@ -44876,8 +45011,8 @@
     "tgt": "Middle East",
     "src": "IRN-s",
     "pers": 6,
-    "date1": 20240301,
-    "date2": 20240330
+    "date1": 20250301,
+    "date2": 20250330
   },
   {
     "freq": 6060000,
@@ -44891,8 +45026,8 @@
     "tgt": "Middle East",
     "src": "IRN-s",
     "pers": 6,
-    "date1": 20240301,
-    "date2": 20240330
+    "date1": 20250301,
+    "date2": 20250330
   },
   {
     "freq": 6065000,
@@ -44967,7 +45102,7 @@
     "src": "MDG",
     "pers": 6,
     "date1": 20241109,
-    "date2": 20240329
+    "date2": 20250329
   },
   {
     "freq": 6065000,
@@ -44982,7 +45117,7 @@
     "src": "MDG",
     "pers": 6,
     "date1": 20241109,
-    "date2": 20240329
+    "date2": 20250329
   },
   {
     "freq": 6070000,
@@ -46052,7 +46187,7 @@
   {
     "freq": 6090000,
     "mode": "am",
-    "time1": 258,
+    "time1": 252,
     "time2": 2100,
     "days": "1234567",
     "itu": "ETH",
@@ -46212,7 +46347,7 @@
     "src": "D-n",
     "pers": 6,
     "date1": 20241215,
-    "date2": 20240209
+    "date2": 20250209
   },
   {
     "freq": 6095000,
@@ -46227,7 +46362,7 @@
     "src": "D-n",
     "pers": 6,
     "date1": 20250101,
-    "date2": 20240309
+    "date2": 20250309
   },
   {
     "freq": 6095000,
@@ -47247,7 +47382,7 @@
     "src": "TJK",
     "pers": 6,
     "date1": 20241223,
-    "date2": 20240330
+    "date2": 20250330
   },
   {
     "freq": 6115000,
@@ -47262,7 +47397,7 @@
     "src": "TJK",
     "pers": 6,
     "date1": 20241223,
-    "date2": 20240330
+    "date2": 20250330
   },
   {
     "freq": 6115000,
@@ -47277,7 +47412,7 @@
     "src": "TJK",
     "pers": 6,
     "date1": 20241223,
-    "date2": 20240330
+    "date2": 20250330
   },
   {
     "freq": 6115000,
@@ -47327,7 +47462,7 @@
   {
     "freq": 6115000,
     "mode": "am",
-    "time1": 1200,
+    "time1": 1100,
     "time2": 1258,
     "days": "1234567",
     "itu": "KOR",
@@ -48417,7 +48552,7 @@
     "src": "OMA-a",
     "pers": 6,
     "date1": 20241102,
-    "date2": 20240330
+    "date2": 20250330
   },
   {
     "freq": 6155000,
@@ -48902,21 +49037,6 @@
   {
     "freq": 6170000,
     "mode": "am",
-    "time1": 120,
-    "time2": 220,
-    "days": "1234567",
-    "itu": "IRN",
-    "name": "IRIB Voice of I.R.Iran",
-    "lang": "Turkish: Turkey (46m), Bulgaria (0.6m), N Cyprus (0.2m)",
-    "tgt": "Middle East",
-    "src": "IRN-s",
-    "pers": 6,
-    "date1": 20240301,
-    "date2": 20240330
-  },
-  {
-    "freq": 6170000,
-    "mode": "am",
     "time1": 1000,
     "time2": 1100,
     "days": "1234567",
@@ -49378,21 +49498,6 @@
     "pers": 1,
     "date1": 0,
     "date2": 0
-  },
-  {
-    "freq": 6180000,
-    "mode": "am",
-    "time1": 2120,
-    "time2": 2250,
-    "days": "1234567",
-    "itu": "IRN",
-    "name": "IRIB Voice of I.R.Iran",
-    "lang": "Tajik: Tajikistan (3m), Uzbekistan (1m)",
-    "tgt": "Central Asia",
-    "src": "IRN-s",
-    "pers": 6,
-    "date1": 20240301,
-    "date2": 20240330
   },
   {
     "freq": 6180000,
@@ -51267,7 +51372,7 @@
     "src": "POL-p",
     "pers": 1,
     "date1": 20241101,
-    "date2": 20240228
+    "date2": 20250228
   },
   {
     "freq": 6265000,
@@ -52421,7 +52526,7 @@
     "tgt": "",
     "src": "POL-p",
     "pers": 1,
-    "date1": 20240301,
+    "date1": 20250301,
     "date2": 20240430
   },
   {
@@ -52616,7 +52721,7 @@
     "tgt": "",
     "src": "POL-p",
     "pers": 1,
-    "date1": 20240301,
+    "date1": 20250301,
     "date2": 20240430
   },
   {
@@ -54336,7 +54441,7 @@
     "time2": 2400,
     "days": "1234567",
     "itu": "RUS",
-    "name": "Novosibir Volmet x10,40",
+    "name": "Novosibir Volmet x07,37",
     "lang": "Russian: Russia (137m), Ukraine (8m), Kazakhstan (6m), Belarus (1m)",
     "tgt": "Commonwealth of Independent States (former Soviet Union)",
     "src": "RUS-nv",
@@ -54720,6 +54825,21 @@
     "date2": 0
   },
   {
+    "freq": 6780000,
+    "mode": "cw",
+    "time1": 0,
+    "time2": 2400,
+    "days": "1234567",
+    "itu": "CHN",
+    "name": "XSG Shanghai Radio",
+    "lang": "Morse Station",
+    "tgt": "Far East",
+    "src": "CHN-sh",
+    "pers": 6,
+    "date1": 20250212,
+    "date2": 20250212
+  },
+  {
     "freq": 6792000,
     "mode": "am",
     "time1": 1300,
@@ -54747,7 +54867,7 @@
     "src": "POL-p",
     "pers": 1,
     "date1": 20241101,
-    "date2": 20240228
+    "date2": 20250228
   },
   {
     "freq": 6807000,
@@ -54761,7 +54881,7 @@
     "tgt": "",
     "src": "POL-p",
     "pers": 1,
-    "date1": 20240301,
+    "date1": 20250301,
     "date2": 20240430
   },
   {
@@ -54822,7 +54942,7 @@
     "src": "POL-p",
     "pers": 1,
     "date1": 20241101,
-    "date2": 20240228
+    "date2": 20250228
   },
   {
     "freq": 6849000,
@@ -54837,7 +54957,7 @@
     "src": "POL-p",
     "pers": 1,
     "date1": 20241101,
-    "date2": 20240228
+    "date2": 20250228
   },
   {
     "freq": 6850000,
@@ -55721,7 +55841,7 @@
     "tgt": "",
     "src": "POL-p",
     "pers": 1,
-    "date1": 20240301,
+    "date1": 20250301,
     "date2": 20240430
   },
   {
@@ -55841,7 +55961,7 @@
     "tgt": "",
     "src": "POL-p",
     "pers": 1,
-    "date1": 20240301,
+    "date1": 20250301,
     "date2": 20240430
   },
   {
@@ -55923,7 +56043,7 @@
     "freq": 6960000,
     "mode": "am",
     "time1": 100,
-    "time2": 300,
+    "time2": 330,
     "days": ".....6.",
     "itu": "USA",
     "name": "Ballsmacker Radio",
@@ -56247,7 +56367,7 @@
     "src": "POL-p",
     "pers": 1,
     "date1": 20241101,
-    "date2": 20240228
+    "date2": 20250228
   },
   {
     "freq": 7038500,
@@ -56573,6 +56693,36 @@
     "itu": "CHN",
     "name": "China Radio Int.",
     "lang": "Mandarin (Standard Chinese / Beijing dialect): China (840m)",
+    "tgt": "Far East",
+    "src": "CHN-b",
+    "pers": 6,
+    "date1": 20250128,
+    "date2": 20250129
+  },
+  {
+    "freq": 7205000,
+    "mode": "am",
+    "time1": 1200,
+    "time2": 1300,
+    "days": "1234567",
+    "itu": "CHN",
+    "name": "China Radio Int.",
+    "lang": "Mandarin (Standard Chinese / Beijing dialect): China (840m)",
+    "tgt": "Far East",
+    "src": "CHN-b",
+    "pers": 6,
+    "date1": 20250212,
+    "date2": 20250213
+  },
+  {
+    "freq": 7205000,
+    "mode": "am",
+    "time1": 1200,
+    "time2": 1300,
+    "days": "1234567",
+    "itu": "CHN",
+    "name": "China Radio Int.",
+    "lang": "Mandarin (Standard Chinese / Beijing dialect): China (840m)",
     "tgt": "South Asia",
     "src": "CHN-ka",
     "pers": 0,
@@ -56593,6 +56743,21 @@
     "pers": 0,
     "date1": 0,
     "date2": 0
+  },
+  {
+    "freq": 7205000,
+    "mode": "am",
+    "time1": 1400,
+    "time2": 1700,
+    "days": "1234567",
+    "itu": "CHN",
+    "name": "China Radio Int.",
+    "lang": "Mandarin (Standard Chinese / Beijing dialect): China (840m)",
+    "tgt": "Far East",
+    "src": "CHN-b",
+    "pers": 6,
+    "date1": 20250128,
+    "date2": 20250129
   },
   {
     "freq": 7205000,
@@ -57527,6 +57692,21 @@
   {
     "freq": 7220000,
     "mode": "am",
+    "time1": 120,
+    "time2": 220,
+    "days": "1234567",
+    "itu": "IRN",
+    "name": "IRIB Voice of I.R.Iran",
+    "lang": "Turkish: Turkey (46m), Bulgaria (0.6m), N Cyprus (0.2m)",
+    "tgt": "Middle East",
+    "src": "IRN-s",
+    "pers": 6,
+    "date1": 20250301,
+    "date2": 20250330
+  },
+  {
+    "freq": 7220000,
+    "mode": "am",
     "time1": 2320,
     "time2": 120,
     "days": "1234567",
@@ -57536,8 +57716,8 @@
     "tgt": "Middle East",
     "src": "IRN-s",
     "pers": 6,
-    "date1": 20240301,
-    "date2": 20240330
+    "date1": 20250301,
+    "date2": 20250330
   },
   {
     "freq": 7220000,
@@ -58181,8 +58361,8 @@
     "tgt": "Caucasus",
     "src": "IRN-s",
     "pers": 6,
-    "date1": 20240301,
-    "date2": 20240330
+    "date1": 20250301,
+    "date2": 20250330
   },
   {
     "freq": 7230000,
@@ -58196,8 +58376,8 @@
     "tgt": "Caucasus",
     "src": "IRN-s",
     "pers": 6,
-    "date1": 20240301,
-    "date2": 20240330
+    "date1": 20250301,
+    "date2": 20250330
   },
   {
     "freq": 7230000,
@@ -58213,6 +58393,21 @@
     "pers": 5,
     "date1": 0,
     "date2": 0
+  },
+  {
+    "freq": 7235000,
+    "mode": "am",
+    "time1": 1200,
+    "time2": 1400,
+    "days": "1234567",
+    "itu": "CHN",
+    "name": "China Radio Int.",
+    "lang": "Mandarin (Standard Chinese / Beijing dialect): China (840m)",
+    "tgt": "South Asia",
+    "src": "CHN-ka",
+    "pers": 6,
+    "date1": 20250128,
+    "date2": 20250129
   },
   {
     "freq": 7235000,
@@ -58258,6 +58453,21 @@
     "pers": 0,
     "date1": 0,
     "date2": 0
+  },
+  {
+    "freq": 7235000,
+    "mode": "am",
+    "time1": 1600,
+    "time2": 1700,
+    "days": "1234567",
+    "itu": "CHN",
+    "name": "China Radio Int.",
+    "lang": "Mandarin (Standard Chinese / Beijing dialect): China (840m)",
+    "tgt": "South Asia",
+    "src": "CHN-ka",
+    "pers": 6,
+    "date1": 20250128,
+    "date2": 20250129
   },
   {
     "freq": 7235000,
@@ -58862,21 +59072,6 @@
   {
     "freq": 7250000,
     "mode": "am",
-    "time1": 2320,
-    "time2": 120,
-    "days": "1234567",
-    "itu": "IRN",
-    "name": "IRIB Voice of I.R.Iran",
-    "lang": "Arabic (300m)",
-    "tgt": "Middle East",
-    "src": "IRN-s",
-    "pers": 6,
-    "date1": 20240301,
-    "date2": 20240330
-  },
-  {
-    "freq": 7250000,
-    "mode": "am",
     "time1": 745,
     "time2": 800,
     "days": "xxxxxxx",
@@ -59352,6 +59547,51 @@
     "src": "VUT",
     "pers": 1,
     "date1": 20250101,
+    "date2": 20250131
+  },
+  {
+    "freq": 7260000,
+    "mode": "am",
+    "time1": 1959,
+    "time2": 2259,
+    "days": "1234567",
+    "itu": "VUT",
+    "name": "Radio Vanuatu",
+    "lang": "Bislama: Vanuatu (10,000)",
+    "tgt": "Vanuatu",
+    "src": "VUT",
+    "pers": 6,
+    "date1": 20250201,
+    "date2": 20250228
+  },
+  {
+    "freq": 7260000,
+    "mode": "am",
+    "time1": 659,
+    "time2": 1105,
+    "days": "1234567",
+    "itu": "VUT",
+    "name": "Radio Vanuatu",
+    "lang": "Bislama: Vanuatu (10,000)",
+    "tgt": "Vanuatu",
+    "src": "VUT",
+    "pers": 6,
+    "date1": 20250201,
+    "date2": 20250228
+  },
+  {
+    "freq": 7260000,
+    "mode": "am",
+    "time1": 1830,
+    "time2": 1105,
+    "days": "1234567",
+    "itu": "VUT",
+    "name": "Radio Vanuatu",
+    "lang": "Bislama: Vanuatu (10,000)",
+    "tgt": "Vanuatu",
+    "src": "VUT",
+    "pers": 1,
+    "date1": 20250301,
     "date2": 0
   },
   {
@@ -59700,6 +59940,21 @@
     "date2": 0
   },
   {
+    "freq": 7270000,
+    "mode": "am",
+    "time1": 2350,
+    "time2": 50,
+    "days": "1234567",
+    "itu": "IRN",
+    "name": "IRIB Voice of I.R.Iran",
+    "lang": "Kurdish: Turkey (15m), Iraq (6.3m), Iran (6.5m), Syria (1m)",
+    "tgt": "Middle East",
+    "src": "IRN-s",
+    "pers": 6,
+    "date1": 20250301,
+    "date2": 20250330
+  },
+  {
     "freq": 7275000,
     "mode": "am",
     "time1": 1100,
@@ -59923,21 +60178,6 @@
     "pers": 1,
     "date1": 0,
     "date2": 0
-  },
-  {
-    "freq": 7280000,
-    "mode": "am",
-    "time1": 2350,
-    "time2": 50,
-    "days": "1234567",
-    "itu": "IRN",
-    "name": "IRIB Voice of I.R.Iran",
-    "lang": "Kurdish: Turkey (15m), Iraq (6.3m), Iran (6.5m), Syria (1m)",
-    "tgt": "Middle East",
-    "src": "IRN-s",
-    "pers": 6,
-    "date1": 20240301,
-    "date2": 20240330
   },
   {
     "freq": 7280000,
@@ -60897,7 +61137,7 @@
     "src": "CHN-ka",
     "pers": 6,
     "date1": 20241120,
-    "date2": 20240330
+    "date2": 20250330
   },
   {
     "freq": 7300000,
@@ -61332,7 +61572,7 @@
     "src": "ROU-t",
     "pers": 6,
     "date1": 20241201,
-    "date2": 20240330
+    "date2": 20250330
   },
   {
     "freq": 7310000,
@@ -61647,7 +61887,22 @@
     "src": "CVA",
     "pers": 6,
     "date1": 20250111,
-    "date2": 20240330
+    "date2": 20250330
+  },
+  {
+    "freq": 7315000,
+    "mode": "am",
+    "time1": 330,
+    "time2": 345,
+    "days": "1234567",
+    "itu": "HOL",
+    "name": "Radio Tamazuj",
+    "lang": "Sudanese Arabic: Sudan and South Sudan (15m)",
+    "tgt": "South Sudan",
+    "src": "MDG",
+    "pers": 6,
+    "date1": 20250201,
+    "date2": 20250330
   },
   {
     "freq": 7315000,
@@ -61660,9 +61915,9 @@
     "lang": "Sudanese Arabic: Sudan and South Sudan (15m)",
     "tgt": "South Sudan",
     "src": "MDG",
-    "pers": 0,
-    "date1": 0,
-    "date2": 0
+    "pers": 6,
+    "date1": 20241027,
+    "date2": 20250131
   },
   {
     "freq": 7315000,
@@ -61675,9 +61930,9 @@
     "lang": "English: UK (60m), USA (225m), India (200m), others",
     "tgt": "South Sudan",
     "src": "MDG",
-    "pers": 0,
-    "date1": 0,
-    "date2": 0
+    "pers": 6,
+    "date1": 20241027,
+    "date2": 20250131
   },
   {
     "freq": 7315000,
@@ -61721,7 +61976,7 @@
     "tgt": "",
     "src": "POL-p",
     "pers": 1,
-    "date1": 20240301,
+    "date1": 20250301,
     "date2": 20240430
   },
   {
@@ -62172,7 +62427,7 @@
     "src": "ROU-t",
     "pers": 6,
     "date1": 20241201,
-    "date2": 20240330
+    "date2": 20250330
   },
   {
     "freq": 7330000,
@@ -63850,9 +64105,9 @@
     "lang": "English: UK (60m), USA (225m), India (200m), others",
     "tgt": "Oceania (Australia, New Zealand, Pacific Ocean)",
     "src": "NZL-r",
-    "pers": 0,
-    "date1": 0,
-    "date2": 0
+    "pers": 6,
+    "date1": 20241027,
+    "date2": 20250126
   },
   {
     "freq": 7395000,
@@ -64527,7 +64782,7 @@
     "src": "OMA-a",
     "pers": 6,
     "date1": 20241207,
-    "date2": 20240330
+    "date2": 20250330
   },
   {
     "freq": 7410000,
@@ -64557,7 +64812,7 @@
     "src": "ROU-t",
     "pers": 6,
     "date1": 20241220,
-    "date2": 20240330
+    "date2": 20250330
   },
   {
     "freq": 7410000,
@@ -65907,7 +66162,7 @@
     "src": "POL-p",
     "pers": 1,
     "date1": 20241101,
-    "date2": 20240228
+    "date2": 20250228
   },
   {
     "freq": 7470000,
@@ -65937,7 +66192,7 @@
     "src": "CHN",
     "pers": 6,
     "date1": 20241118,
-    "date2": 20240329
+    "date2": 20250329
   },
   {
     "freq": 7470000,
@@ -65982,7 +66237,7 @@
     "src": "KWT",
     "pers": 6,
     "date1": 20241118,
-    "date2": 20240329
+    "date2": 20250329
   },
   {
     "freq": 7470000,
@@ -66373,6 +66628,21 @@
     "pers": 0,
     "date1": 0,
     "date2": 0
+  },
+  {
+    "freq": 7495000,
+    "mode": "am",
+    "time1": 1000,
+    "time2": 1024,
+    "days": "1234567",
+    "itu": "USA",
+    "name": "Voice of America",
+    "lang": "English: UK (60m), USA (225m), India (200m), others",
+    "tgt": "Middle East",
+    "src": "D-b",
+    "pers": 6,
+    "date1": 20250204,
+    "date2": 20250204
   },
   {
     "freq": 7500000,
@@ -66807,7 +67077,7 @@
     "src": "THA-u",
     "pers": 6,
     "date1": 20241127,
-    "date2": 20240330
+    "date2": 20250330
   },
   {
     "freq": 7535000,
@@ -67346,7 +67616,7 @@
     "tgt": "Western North America",
     "src": "USA-o",
     "pers": 6,
-    "date1": 20240327,
+    "date1": 20250327,
     "date2": 20241231
   },
   {
@@ -67361,7 +67631,7 @@
     "tgt": "Western North America",
     "src": "USA-o",
     "pers": 6,
-    "date1": 20240327,
+    "date1": 20250327,
     "date2": 20241231
   },
   {
@@ -67826,7 +68096,7 @@
     "tgt": "Iran",
     "src": "UZB",
     "pers": 1,
-    "date1": 20240310,
+    "date1": 20250310,
     "date2": 20241031
   },
   {
@@ -67842,7 +68112,7 @@
     "src": "UZB",
     "pers": 1,
     "date1": 20241101,
-    "date2": 20240309
+    "date2": 20250309
   },
   {
     "freq": 7620000,
@@ -68515,7 +68785,7 @@
     "lang": "Somali: Somalia (8m), Ethiopia (5m), Kenya (2m), Djibouti (0.3m)",
     "tgt": "Eastern Africa",
     "src": "SOM-b",
-    "pers": 8,
+    "pers": 1,
     "date1": 0,
     "date2": 0
   },
@@ -68530,7 +68800,7 @@
     "lang": "Somali: Somalia (8m), Ethiopia (5m), Kenya (2m), Djibouti (0.3m)",
     "tgt": "Eastern Africa",
     "src": "SOM-b",
-    "pers": 8,
+    "pers": 1,
     "date1": 0,
     "date2": 0
   },
@@ -69057,7 +69327,7 @@
     "src": "POL-p",
     "pers": 1,
     "date1": 20241101,
-    "date2": 20240228
+    "date2": 20250228
   },
   {
     "freq": 7850000,
@@ -69087,7 +69357,7 @@
     "src": "POL-p",
     "pers": 1,
     "date1": 20241101,
-    "date2": 20240228
+    "date2": 20250228
   },
   {
     "freq": 7863000,
@@ -69116,7 +69386,7 @@
     "tgt": "",
     "src": "POL-p",
     "pers": 1,
-    "date1": 20240301,
+    "date1": 20250301,
     "date2": 20240430
   },
   {
@@ -70691,8 +70961,8 @@
     "tgt": "Russian Federation",
     "src": "RUS-xx",
     "pers": 1,
-    "date1": 20240201,
-    "date2": 20240228
+    "date1": 20250201,
+    "date2": 20250228
   },
   {
     "freq": 7923000,
@@ -70796,7 +71066,7 @@
     "tgt": "Russian Federation",
     "src": "RUS-m",
     "pers": 1,
-    "date1": 20240301,
+    "date1": 20250301,
     "date2": 20240430
   },
   {
@@ -70811,7 +71081,7 @@
     "tgt": "Far East",
     "src": "RUS-xx",
     "pers": 1,
-    "date1": 20240301,
+    "date1": 20250301,
     "date2": 20240430
   },
   {
@@ -70826,7 +71096,7 @@
     "tgt": "Eastern Europe, incl. North Africa / Middle East",
     "src": "RUS-xx",
     "pers": 1,
-    "date1": 20240301,
+    "date1": 20250301,
     "date2": 20240430
   },
   {
@@ -70886,7 +71156,7 @@
     "tgt": "Russian Federation",
     "src": "RUS-m",
     "pers": 1,
-    "date1": 20240301,
+    "date1": 20250301,
     "date2": 20240430
   },
   {
@@ -70947,7 +71217,7 @@
     "src": "RUS-m",
     "pers": 1,
     "date1": 20241101,
-    "date2": 20240228
+    "date2": 20250228
   },
   {
     "freq": 8113000,
@@ -70991,8 +71261,8 @@
     "tgt": "Russian Federation",
     "src": "RUS-or",
     "pers": 1,
-    "date1": 20240201,
-    "date2": 20240228
+    "date1": 20250201,
+    "date2": 20250228
   },
   {
     "freq": 8117000,
@@ -71052,7 +71322,7 @@
     "src": "RUS-m",
     "pers": 1,
     "date1": 20241101,
-    "date2": 20240228
+    "date2": 20250228
   },
   {
     "freq": 8131000,
@@ -71231,7 +71501,7 @@
     "tgt": "Russian Federation",
     "src": "RUS-or",
     "pers": 1,
-    "date1": 20240201,
+    "date1": 20250201,
     "date2": 0
   },
   {
@@ -71306,7 +71576,7 @@
     "tgt": "",
     "src": "POL-p",
     "pers": 1,
-    "date1": 20240301,
+    "date1": 20250301,
     "date2": 20240430
   },
   {
@@ -72282,7 +72552,7 @@
     "src": "POL-p",
     "pers": 1,
     "date1": 20241101,
-    "date2": 20240228
+    "date2": 20250228
   },
   {
     "freq": 8459000,
@@ -72511,6 +72781,21 @@
   },
   {
     "freq": 8502000,
+    "mode": "cw",
+    "time1": 0,
+    "time2": 2400,
+    "days": "1234567",
+    "itu": "CHN",
+    "name": "XSG Shanghai Radio",
+    "lang": "Morse Station",
+    "tgt": "Far East",
+    "src": "CHN-sh",
+    "pers": 6,
+    "date1": 20250212,
+    "date2": 20250212
+  },
+  {
+    "freq": 8502000,
     "mode": "am",
     "time1": 330,
     "time2": 410,
@@ -72716,7 +73001,7 @@
     "tgt": "",
     "src": "POL-p",
     "pers": 1,
-    "date1": 20240301,
+    "date1": 20250301,
     "date2": 20240430
   },
   {
@@ -72836,7 +73121,7 @@
     "tgt": "",
     "src": "POL-p",
     "pers": 1,
-    "date1": 20240301,
+    "date1": 20250301,
     "date2": 20240430
   },
   {
@@ -73166,7 +73451,7 @@
     "tgt": "",
     "src": "POL-p",
     "pers": 1,
-    "date1": 20240301,
+    "date1": 20250301,
     "date2": 20240430
   },
   {
@@ -75171,7 +75456,7 @@
     "time2": 2400,
     "days": "1234567",
     "itu": "RUS",
-    "name": "Novosibir Volmet x10,40",
+    "name": "Novosibir Volmet x07,37",
     "lang": "Russian: Russia (137m), Ukraine (8m), Kazakhstan (6m), Belarus (1m)",
     "tgt": "Commonwealth of Independent States (former Soviet Union)",
     "src": "RUS-nv",
@@ -76017,7 +76302,7 @@
     "src": "POL-p",
     "pers": 1,
     "date1": 20241101,
-    "date2": 20240228
+    "date2": 20250228
   },
   {
     "freq": 9052000,
@@ -76076,8 +76361,8 @@
     "tgt": "Russian Federation",
     "src": "RUS-or",
     "pers": 1,
-    "date1": 20240301,
-    "date2": 20240331
+    "date1": 20250301,
+    "date2": 20250331
   },
   {
     "freq": 9079000,
@@ -76091,7 +76376,7 @@
     "tgt": "",
     "src": "POL-p",
     "pers": 1,
-    "date1": 20240301,
+    "date1": 20250301,
     "date2": 20240430
   },
   {
@@ -76122,7 +76407,7 @@
     "src": "POL-p",
     "pers": 1,
     "date1": 20241101,
-    "date2": 20240228
+    "date2": 20250228
   },
   {
     "freq": 9081000,
@@ -76422,7 +76707,7 @@
     "src": "POL-p",
     "pers": 1,
     "date1": 20241101,
-    "date2": 20240228
+    "date2": 20250228
   },
   {
     "freq": 9150000,
@@ -77501,8 +77786,8 @@
     "tgt": "Russian Federation",
     "src": "RUS-m",
     "pers": 1,
-    "date1": 20240201,
-    "date2": 20240228
+    "date1": 20250201,
+    "date2": 20250228
   },
   {
     "freq": 9255000,
@@ -77815,9 +78100,9 @@
     "lang": "Mandarin (Standard Chinese / Beijing dialect): China (840m)",
     "tgt": "Far East",
     "src": "PHL-b",
-    "pers": 1,
-    "date1": 0,
-    "date2": 0
+    "pers": 6,
+    "date1": 20241027,
+    "date2": 20250209
   },
   {
     "freq": 9275000,
@@ -78880,9 +79165,9 @@
     "lang": "Mandarin (Standard Chinese / Beijing dialect): China (840m)",
     "tgt": "Far East",
     "src": "PHL-i",
-    "pers": 1,
-    "date1": 0,
-    "date2": 0
+    "pers": 6,
+    "date1": 20241027,
+    "date2": 20250209
   },
   {
     "freq": 9349000,
@@ -79136,7 +79421,7 @@
     "tgt": "North Atlantic Ocean",
     "src": "RUS-kl",
     "pers": 1,
-    "date1": 20240301,
+    "date1": 20250301,
     "date2": 20241031
   },
   {
@@ -79167,7 +79452,7 @@
     "src": "THA-u",
     "pers": 6,
     "date1": 20241127,
-    "date2": 20240330
+    "date2": 20250330
   },
   {
     "freq": 9382000,
@@ -79256,7 +79541,7 @@
     "tgt": "",
     "src": "POL-p",
     "pers": 1,
-    "date1": 20240301,
+    "date1": 20250301,
     "date2": 20240430
   },
   {
@@ -79482,7 +79767,7 @@
     "src": "EGY-a",
     "pers": 6,
     "date1": 20241201,
-    "date2": 20240330
+    "date2": 20250330
   },
   {
     "freq": 9410000,
@@ -80793,6 +81078,36 @@
     "freq": 9465000,
     "mode": "am",
     "time1": 1600,
+    "time2": 1700,
+    "days": "......7",
+    "itu": "G",
+    "name": "BBC",
+    "lang": "Somali: Somalia (8m), Ethiopia (5m), Kenya (2m), Djibouti (0.3m)",
+    "tgt": "Eastern Africa",
+    "src": "MDG",
+    "pers": 6,
+    "date1": 20250126,
+    "date2": 20250205
+  },
+  {
+    "freq": 9465000,
+    "mode": "am",
+    "time1": 1600,
+    "time2": 1700,
+    "days": "......7",
+    "itu": "G",
+    "name": "BBC",
+    "lang": "Somali: Somalia (8m), Ethiopia (5m), Kenya (2m), Djibouti (0.3m)",
+    "tgt": "Eastern Africa",
+    "src": "MDG",
+    "pers": 6,
+    "date1": 20250216,
+    "date2": 20250226
+  },
+  {
+    "freq": 9465000,
+    "mode": "am",
+    "time1": 1600,
     "time2": 1900,
     "days": "......7",
     "itu": "G",
@@ -80823,6 +81138,36 @@
     "freq": 9465000,
     "mode": "am",
     "time1": 1700,
+    "time2": 1900,
+    "days": "......7",
+    "itu": "G",
+    "name": "BBC",
+    "lang": "Somali: Somalia (8m), Ethiopia (5m), Kenya (2m), Djibouti (0.3m)",
+    "tgt": "Eastern Africa",
+    "src": "UAE",
+    "pers": 6,
+    "date1": 20250126,
+    "date2": 20250205
+  },
+  {
+    "freq": 9465000,
+    "mode": "am",
+    "time1": 1700,
+    "time2": 1900,
+    "days": "......7",
+    "itu": "G",
+    "name": "BBC",
+    "lang": "Somali: Somalia (8m), Ethiopia (5m), Kenya (2m), Djibouti (0.3m)",
+    "tgt": "Eastern Africa",
+    "src": "UAE",
+    "pers": 6,
+    "date1": 20250216,
+    "date2": 20250226
+  },
+  {
+    "freq": 9465000,
+    "mode": "am",
+    "time1": 1700,
     "time2": 2000,
     "days": ".....6.",
     "itu": "G",
@@ -80833,6 +81178,36 @@
     "pers": 6,
     "date1": 20241123,
     "date2": 20241227
+  },
+  {
+    "freq": 9465000,
+    "mode": "am",
+    "time1": 1700,
+    "time2": 2000,
+    "days": ".....6.",
+    "itu": "G",
+    "name": "BBC",
+    "lang": "Somali: Somalia (8m), Ethiopia (5m), Kenya (2m), Djibouti (0.3m)",
+    "tgt": "Eastern Africa",
+    "src": "OMA-a",
+    "pers": 6,
+    "date1": 20250118,
+    "date2": 20250205
+  },
+  {
+    "freq": 9465000,
+    "mode": "am",
+    "time1": 1700,
+    "time2": 2000,
+    "days": ".....6.",
+    "itu": "G",
+    "name": "BBC",
+    "lang": "Somali: Somalia (8m), Ethiopia (5m), Kenya (2m), Djibouti (0.3m)",
+    "tgt": "Eastern Africa",
+    "src": "OMA-a",
+    "pers": 6,
+    "date1": 20250222,
+    "date2": 20250226
   },
   {
     "freq": 9465000,
@@ -81385,9 +81760,9 @@
     "lang": "Mandarin (Standard Chinese / Beijing dialect): China (840m)",
     "tgt": "Far East",
     "src": "CHN",
-    "pers": 0,
-    "date1": 0,
-    "date2": 0
+    "pers": 6,
+    "date1": 20241027,
+    "date2": 20250101
   },
   {
     "freq": 9490000,
@@ -81446,7 +81821,7 @@
     "tgt": "Cuba",
     "src": "F-i",
     "pers": 1,
-    "date1": 20240310,
+    "date1": 20250310,
     "date2": 20241102
   },
   {
@@ -81462,7 +81837,7 @@
     "src": "F-i",
     "pers": 1,
     "date1": 20241103,
-    "date2": 20240310
+    "date2": 20250310
   },
   {
     "freq": 9490000,
@@ -81520,9 +81895,9 @@
     "lang": "Tibetan / Lhasa Tibetan: Tibet (1m), India (0.1m)",
     "tgt": "Tibet",
     "src": "PHL-t",
-    "pers": 0,
-    "date1": 0,
-    "date2": 0
+    "pers": 6,
+    "date1": 20241027,
+    "date2": 20250101
   },
   {
     "freq": 9490000,
@@ -81702,7 +82077,7 @@
     "src": "ROU-t",
     "pers": 6,
     "date1": 20250105,
-    "date2": 20240330
+    "date2": 20250330
   },
   {
     "freq": 9500000,
@@ -82272,7 +82647,7 @@
     "src": "D-n",
     "pers": 6,
     "date1": 20241208,
-    "date2": 20240329
+    "date2": 20250121
   },
   {
     "freq": 9530000,
@@ -82587,7 +82962,7 @@
     "src": "ALS-ap",
     "pers": 6,
     "date1": 20241109,
-    "date2": 20240329
+    "date2": 20250329
   },
   {
     "freq": 9540000,
@@ -87087,7 +87462,7 @@
     "src": "CHN",
     "pers": 6,
     "date1": 20241227,
-    "date2": 20240330
+    "date2": 20250330
   },
   {
     "freq": 9695000,
@@ -87147,7 +87522,7 @@
     "src": "THA-u",
     "pers": 6,
     "date1": 20241227,
-    "date2": 20240330
+    "date2": 20250330
   },
   {
     "freq": 9700000,
@@ -88307,6 +88682,21 @@
   {
     "freq": 9730000,
     "mode": "am",
+    "time1": 200,
+    "time2": 220,
+    "days": "xxxxxxx",
+    "itu": "MYA",
+    "name": "Myanma Radio",
+    "lang": "English: UK (60m), USA (225m), India (200m), others",
+    "tgt": "South East Asia",
+    "src": "MYA-y",
+    "pers": 1,
+    "date1": 0,
+    "date2": 0
+  },
+  {
+    "freq": 9730000,
+    "mode": "am",
     "time1": 1147,
     "time2": 1530,
     "days": "1234567",
@@ -88722,7 +89112,7 @@
     "src": "ROU-t",
     "pers": 6,
     "date1": 20250105,
-    "date2": 20240330
+    "date2": 20250330
   },
   {
     "freq": 9740000,
@@ -89217,7 +89607,7 @@
     "src": "D-L",
     "pers": 6,
     "date1": 20241118,
-    "date2": 20240329
+    "date2": 20250329
   },
   {
     "freq": 9765000,
@@ -89307,7 +89697,7 @@
     "src": "ROU-t",
     "pers": 6,
     "date1": 20241220,
-    "date2": 20240330
+    "date2": 20250330
   },
   {
     "freq": 9774000,
@@ -89472,7 +89862,22 @@
     "src": "NZL-r",
     "pers": 6,
     "date1": 20250101,
-    "date2": 20240330
+    "date2": 20250126
+  },
+  {
+    "freq": 9780000,
+    "mode": "drm",
+    "time1": 1651,
+    "time2": 1858,
+    "days": "12345.7",
+    "itu": "NZL",
+    "name": "RNZ Pacific DIGITAL",
+    "lang": "English: UK (60m), USA (225m), India (200m), others",
+    "tgt": "South Oceania (Australia, New Zealand, Pacific Ocean)",
+    "src": "NZL-r",
+    "pers": 6,
+    "date1": 20250127,
+    "date2": 20250330
   },
   {
     "freq": 9780000,
@@ -89502,7 +89907,37 @@
     "src": "NZL-r",
     "pers": 6,
     "date1": 20250101,
-    "date2": 20240330
+    "date2": 20250330
+  },
+  {
+    "freq": 9780000,
+    "mode": "drm",
+    "time1": 1840,
+    "time2": 1850,
+    "days": "1234..7",
+    "itu": "NZL",
+    "name": "RNZ Pacific DIGITAL",
+    "lang": "Samoan: Samoa (0.2m), American Samoa (0.05m)",
+    "tgt": "Oceania (Australia, New Zealand, Pacific Ocean)",
+    "src": "NZL-r",
+    "pers": 6,
+    "date1": 20250127,
+    "date2": 20250330
+  },
+  {
+    "freq": 9780000,
+    "mode": "drm",
+    "time1": 1852,
+    "time2": 1858,
+    "days": "12345..",
+    "itu": "NZL",
+    "name": "RNZ Pacific DIGITAL",
+    "lang": "Niuean: Niue (2,000)",
+    "tgt": "Oceania (Australia, New Zealand, Pacific Ocean)",
+    "src": "NZL-r",
+    "pers": 6,
+    "date1": 20250127,
+    "date2": 20250330
   },
   {
     "freq": 9780000,
@@ -89697,7 +90132,7 @@
     "src": "CUB-q",
     "pers": 6,
     "date1": 20241120,
-    "date2": 20240330
+    "date2": 20250330
   },
   {
     "freq": 9790000,
@@ -89712,7 +90147,7 @@
     "src": "CUB-q",
     "pers": 6,
     "date1": 20241120,
-    "date2": 20240330
+    "date2": 20250330
   },
   {
     "freq": 9790000,
@@ -89967,6 +90402,21 @@
     "src": "CHN-ka",
     "pers": 0,
     "date1": 0,
+    "date2": 0
+  },
+  {
+    "freq": 9800000,
+    "mode": "am",
+    "time1": 700,
+    "time2": 1900,
+    "days": "1234567",
+    "itu": "HOL",
+    "name": "Radio Delta Int.",
+    "lang": "Dutch: Netherlands (16m), Belgium (6m), Suriname (0.2m)",
+    "tgt": "Europe, incl. North Africa / Middle East",
+    "src": "HOL-e",
+    "pers": 1,
+    "date1": 20250126,
     "date2": 0
   },
   {
@@ -90612,7 +91062,7 @@
     "src": "F-i",
     "pers": 6,
     "date1": 20250125,
-    "date2": 20240330
+    "date2": 20250330
   },
   {
     "freq": 9820000,
@@ -91472,6 +91922,21 @@
   {
     "freq": 9855000,
     "mode": "am",
+    "time1": 1200,
+    "time2": 1700,
+    "days": "1234567",
+    "itu": "CHN",
+    "name": "China Radio Int.",
+    "lang": "Mandarin (Standard Chinese / Beijing dialect): China (840m)",
+    "tgt": "South East Asia",
+    "src": "CHN-b",
+    "pers": 6,
+    "date1": 20250128,
+    "date2": 20250129
+  },
+  {
+    "freq": 9855000,
+    "mode": "am",
     "time1": 2030,
     "time2": 2050,
     "days": "1234567",
@@ -91887,7 +92352,7 @@
     "src": "ROU-t",
     "pers": 6,
     "date1": 20241220,
-    "date2": 20240330
+    "date2": 20250330
   },
   {
     "freq": 9870000,
@@ -92697,7 +93162,7 @@
     "src": "GUM-m",
     "pers": 6,
     "date1": 20250101,
-    "date2": 20240330
+    "date2": 20250330
   },
   {
     "freq": 9900000,
@@ -93462,7 +93927,7 @@
     "src": "PLW",
     "pers": 6,
     "date1": 20250101,
-    "date2": 20240330
+    "date2": 20250330
   },
   {
     "freq": 9930000,
@@ -93477,7 +93942,7 @@
     "src": "PLW",
     "pers": 6,
     "date1": 20250101,
-    "date2": 20240330
+    "date2": 20250330
   },
   {
     "freq": 9930000,
@@ -93512,6 +93977,21 @@
   {
     "freq": 9940000,
     "mode": "am",
+    "time1": 2300,
+    "time2": 2400,
+    "days": "1234567",
+    "itu": "CHN",
+    "name": "CNR1 Jammer/Firedrake",
+    "lang": "Mandarin (Standard Chinese / Beijing dialect): China (840m)",
+    "tgt": "Far East",
+    "src": "CHN",
+    "pers": 6,
+    "date1": 20250102,
+    "date2": 20250330
+  },
+  {
+    "freq": 9940000,
+    "mode": "am",
     "time1": 1300,
     "time2": 1330,
     "days": "1234567",
@@ -93535,9 +94015,9 @@
     "lang": "Uighur: China-Xinjiang (8m), Kazakhstan (0.3m)",
     "tgt": "Far East",
     "src": "PHL-b",
-    "pers": 1,
-    "date1": 0,
-    "date2": 0
+    "pers": 6,
+    "date1": 20241027,
+    "date2": 20250309
   },
   {
     "freq": 9940000,
@@ -93660,6 +94140,21 @@
     "date2": 20241117
   },
   {
+    "freq": 9490000,
+    "mode": "am",
+    "time1": 2300,
+    "time2": 2400,
+    "days": "1234567",
+    "itu": "USA",
+    "name": "Radio Free Asia",
+    "lang": "Tibetan / Lhasa Tibetan: Tibet (1m), India (0.1m)",
+    "tgt": "Tibet",
+    "src": "PHL-t",
+    "pers": 6,
+    "date1": 20250102,
+    "date2": 20250330
+  },
+  {
     "freq": 9946000,
     "mode": "am",
     "time1": 930,
@@ -93686,7 +94181,7 @@
     "tgt": "",
     "src": "POL-p",
     "pers": 1,
-    "date1": 20240301,
+    "date1": 20250301,
     "date2": 20240430
   },
   {
@@ -93837,7 +94332,7 @@
     "src": "PHL-t",
     "pers": 6,
     "date1": 20241107,
-    "date2": 20240329
+    "date2": 20250329
   },
   {
     "freq": 9960000,
@@ -93850,24 +94345,9 @@
     "lang": "Bislama: Vanuatu (10,000)",
     "tgt": "Vanuatu",
     "src": "VUT",
-    "pers": 1,
+    "pers": 6,
     "date1": 20241027,
     "date2": 20241201
-  },
-  {
-    "freq": 9960000,
-    "mode": "am",
-    "time1": 1959,
-    "time2": 659,
-    "days": "1234567",
-    "itu": "VUT",
-    "name": "Radio Vanuatu",
-    "lang": "Bislama: Vanuatu (10,000)",
-    "tgt": "Vanuatu",
-    "src": "VUT",
-    "pers": 1,
-    "date1": 20250101,
-    "date2": 0
   },
   {
     "freq": 9960000,
@@ -93883,6 +94363,36 @@
     "pers": 6,
     "date1": 20241202,
     "date2": 20241231
+  },
+  {
+    "freq": 9960000,
+    "mode": "am",
+    "time1": 1959,
+    "time2": 1105,
+    "days": "1234567",
+    "itu": "VUT",
+    "name": "Radio Vanuatu",
+    "lang": "Bislama: Vanuatu (10,000)",
+    "tgt": "Vanuatu",
+    "src": "VUT",
+    "pers": 6,
+    "date1": 20250123,
+    "date2": 20250123
+  },
+  {
+    "freq": 9960000,
+    "mode": "am",
+    "time1": 2259,
+    "time2": 659,
+    "days": "1234567",
+    "itu": "VUT",
+    "name": "Radio Vanuatu",
+    "lang": "Bislama: Vanuatu (10,000)",
+    "tgt": "Vanuatu",
+    "src": "VUT",
+    "pers": 6,
+    "date1": 20250101,
+    "date2": 20250228
   },
   {
     "freq": 9965000,
@@ -93933,7 +94443,7 @@
     "freq": 9965000,
     "mode": "am",
     "time1": 840,
-    "time2": 1005,
+    "time2": 1020,
     "days": ".....6.",
     "itu": "USA",
     "name": "Hope Radio 5",
@@ -95351,8 +95861,8 @@
     "tgt": "Russian Federation",
     "src": "RUS-or",
     "pers": 1,
-    "date1": 20240301,
-    "date2": 20240331
+    "date1": 20250301,
+    "date2": 20250331
   },
   {
     "freq": 10213000,
@@ -95366,7 +95876,7 @@
     "tgt": "",
     "src": "POL-p",
     "pers": 1,
-    "date1": 20240301,
+    "date1": 20250301,
     "date2": 20240430
   },
   {
@@ -95397,7 +95907,7 @@
     "src": "POL-p",
     "pers": 1,
     "date1": 20241101,
-    "date2": 20240228
+    "date2": 20250228
   },
   {
     "freq": 10213000,
@@ -95411,7 +95921,7 @@
     "tgt": "",
     "src": "POL-p",
     "pers": 1,
-    "date1": 20240301,
+    "date1": 20250301,
     "date2": 20240430
   },
   {
@@ -95546,7 +96056,7 @@
     "tgt": "",
     "src": "POL-p",
     "pers": 1,
-    "date1": 20240301,
+    "date1": 20250301,
     "date2": 20240430
   },
   {
@@ -95591,8 +96101,8 @@
     "tgt": "Russian Federation",
     "src": "RUS-m",
     "pers": 1,
-    "date1": 20240201,
-    "date2": 20240228
+    "date1": 20250201,
+    "date2": 20250228
   },
   {
     "freq": 10356000,
@@ -95651,8 +96161,8 @@
     "tgt": "Russian Federation",
     "src": "RUS-or",
     "pers": 1,
-    "date1": 20240201,
-    "date2": 20240228
+    "date1": 20250201,
+    "date2": 20250228
   },
   {
     "freq": 10429000,
@@ -95682,7 +96192,7 @@
     "src": "POL-p",
     "pers": 1,
     "date1": 20241101,
-    "date2": 20240228
+    "date2": 20250228
   },
   {
     "freq": 10463000,
@@ -95696,8 +96206,8 @@
     "tgt": "Russian Federation",
     "src": "RUS-or",
     "pers": 1,
-    "date1": 20240301,
-    "date2": 20240331
+    "date1": 20250301,
+    "date2": 20250331
   },
   {
     "freq": 10487000,
@@ -95712,7 +96222,7 @@
     "src": "POL-p",
     "pers": 1,
     "date1": 20241101,
-    "date2": 20240228
+    "date2": 20250228
   },
   {
     "freq": 10536000,
@@ -95876,8 +96386,8 @@
     "tgt": "Russian Federation",
     "src": "RUS-c",
     "pers": 1,
-    "date1": 20240201,
-    "date2": 20240228
+    "date1": 20250201,
+    "date2": 20250228
   },
   {
     "freq": 10653000,
@@ -95936,7 +96446,7 @@
     "tgt": "",
     "src": "POL-p",
     "pers": 1,
-    "date1": 20240301,
+    "date1": 20250301,
     "date2": 20240430
   },
   {
@@ -95981,8 +96491,8 @@
     "tgt": "Russian Federation",
     "src": "RUS-or",
     "pers": 1,
-    "date1": 20240201,
-    "date2": 20240228
+    "date1": 20250201,
+    "date2": 20250228
   },
   {
     "freq": 10755000,
@@ -95996,8 +96506,8 @@
     "tgt": "Russian Federation",
     "src": "RUS-or",
     "pers": 1,
-    "date1": 20240301,
-    "date2": 20240331
+    "date1": 20250301,
+    "date2": 20250331
   },
   {
     "freq": 10819900,
@@ -97497,7 +98007,7 @@
     "src": "POL-p",
     "pers": 1,
     "date1": 20241101,
-    "date2": 20240228
+    "date2": 20250228
   },
   {
     "freq": 11100000,
@@ -97527,7 +98037,7 @@
     "src": "POL-p",
     "pers": 1,
     "date1": 20241101,
-    "date2": 20240228
+    "date2": 20250228
   },
   {
     "freq": 11100000,
@@ -97692,7 +98202,7 @@
     "src": "POL-p",
     "pers": 1,
     "date1": 20241101,
-    "date2": 20240228
+    "date2": 20250228
   },
   {
     "freq": 11116000,
@@ -97706,7 +98216,7 @@
     "tgt": "",
     "src": "POL-p",
     "pers": 1,
-    "date1": 20240301,
+    "date1": 20250301,
     "date2": 20240430
   },
   {
@@ -98066,8 +98576,8 @@
     "tgt": "Russian Federation",
     "src": "RUS-m",
     "pers": 1,
-    "date1": 20240201,
-    "date2": 20240228
+    "date1": 20250201,
+    "date2": 20250228
   },
   {
     "freq": 11170000,
@@ -98322,7 +98832,7 @@
     "src": "RUS-m",
     "pers": 1,
     "date1": 20241101,
-    "date2": 20240228
+    "date2": 20250228
   },
   {
     "freq": 11223000,
@@ -98336,7 +98846,7 @@
     "tgt": "Russian Federation",
     "src": "RUS-m",
     "pers": 1,
-    "date1": 20240301,
+    "date1": 20250301,
     "date2": 20240430
   },
   {
@@ -98832,7 +99342,7 @@
     "src": "RUS-m",
     "pers": 1,
     "date1": 20241101,
-    "date2": 20240228
+    "date2": 20250228
   },
   {
     "freq": 11318000,
@@ -98841,7 +99351,7 @@
     "time2": 1100,
     "days": "1234567",
     "itu": "RUS",
-    "name": "Novosibir Volmet x10,40",
+    "name": "Novosibir Volmet x07,37",
     "lang": "Russian: Russia (137m), Ukraine (8m), Kazakhstan (6m), Belarus (1m)",
     "tgt": "Commonwealth of Independent States (former Soviet Union)",
     "src": "RUS-nv",
@@ -99641,7 +100151,7 @@
     "tgt": "North Atlantic Ocean",
     "src": "RUS-kl",
     "pers": 1,
-    "date1": 20240301,
+    "date1": 20250301,
     "date2": 20241031
   },
   {
@@ -99671,7 +100181,7 @@
     "tgt": "",
     "src": "POL-p",
     "pers": 1,
-    "date1": 20240301,
+    "date1": 20250301,
     "date2": 20240430
   },
   {
@@ -100227,7 +100737,7 @@
     "src": "POL-p",
     "pers": 1,
     "date1": 20241101,
-    "date2": 20240228
+    "date2": 20250228
   },
   {
     "freq": 11487000,
@@ -101577,7 +102087,7 @@
     "src": "POL-p",
     "pers": 1,
     "date1": 20241101,
-    "date2": 20240228
+    "date2": 20250228
   },
   {
     "freq": 11559000,
@@ -101592,7 +102102,7 @@
     "src": "POL-p",
     "pers": 1,
     "date1": 20241101,
-    "date2": 20240228
+    "date2": 20250228
   },
   {
     "freq": 11560000,
@@ -101622,7 +102132,7 @@
     "src": "TJK",
     "pers": 6,
     "date1": 20241101,
-    "date2": 20240329
+    "date2": 20250329
   },
   {
     "freq": 11560000,
@@ -101637,7 +102147,7 @@
     "src": "TJK",
     "pers": 6,
     "date1": 20241101,
-    "date2": 20240329
+    "date2": 20250329
   },
   {
     "freq": 11567000,
@@ -101651,8 +102161,8 @@
     "tgt": "Russian Federation",
     "src": "RUS-c",
     "pers": 1,
-    "date1": 20240301,
-    "date2": 20240331
+    "date1": 20250301,
+    "date2": 20250331
   },
   {
     "freq": 11570000,
@@ -101951,7 +102461,7 @@
     "tgt": "",
     "src": "POL-p",
     "pers": 1,
-    "date1": 20240301,
+    "date1": 20250301,
     "date2": 20240430
   },
   {
@@ -102145,9 +102655,9 @@
     "lang": "Hui / Huizhou: China-Anhui,Zhejiang (5m)",
     "tgt": "Far East",
     "src": "PHL-b",
-    "pers": 1,
-    "date1": 0,
-    "date2": 0
+    "pers": 6,
+    "date1": 20241027,
+    "date2": 20250309
   },
   {
     "freq": 11600000,
@@ -102160,8 +102670,23 @@
     "lang": "Dialects / languages of Yunnan (China)",
     "tgt": "Far East",
     "src": "PHL-b",
+    "pers": 6,
+    "date1": 20241027,
+    "date2": 20250309
+  },
+  {
+    "freq": 11600000,
+    "mode": "am",
+    "time1": 1400,
+    "time2": 1600,
+    "days": "1234567",
+    "itu": "PHL",
+    "name": "FEBC Manila",
+    "lang": "Mandarin (Standard Chinese / Beijing dialect): China (840m)",
+    "tgt": "Far East",
+    "src": "PHL-i",
     "pers": 1,
-    "date1": 0,
+    "date1": 20250310,
     "date2": 0
   },
   {
@@ -102810,6 +103335,21 @@
     "date2": 0
   },
   {
+    "freq": 11620000,
+    "mode": "am",
+    "time1": 1200,
+    "time2": 1700,
+    "days": "1234567",
+    "itu": "CHN",
+    "name": "China Radio Int.",
+    "lang": "Mandarin (Standard Chinese / Beijing dialect): China (840m)",
+    "tgt": "Oceania (Australia, New Zealand, Pacific Ocean)",
+    "src": "CHN-b",
+    "pers": 6,
+    "date1": 20250128,
+    "date2": 20250129
+  },
+  {
     "freq": 11630000,
     "mode": "am",
     "time1": 1200,
@@ -102822,7 +103362,7 @@
     "src": "UZB",
     "pers": 6,
     "date1": 20241223,
-    "date2": 20240330
+    "date2": 20250330
   },
   {
     "freq": 11630000,
@@ -102837,7 +103377,7 @@
     "src": "UZB",
     "pers": 6,
     "date1": 20241223,
-    "date2": 20240330
+    "date2": 20250330
   },
   {
     "freq": 11630000,
@@ -102912,7 +103452,7 @@
     "src": "UAE",
     "pers": 6,
     "date1": 20250101,
-    "date2": 20240330
+    "date2": 20250330
   },
   {
     "freq": 11632000,
@@ -103397,6 +103937,21 @@
   {
     "freq": 11650000,
     "mode": "am",
+    "time1": 30,
+    "time2": 230,
+    "days": ".......",
+    "itu": "CHN",
+    "name": "China Radio Int.",
+    "lang": "English: UK (60m), USA (225m), India (200m), others",
+    "tgt": "South Asia",
+    "src": "CHN-ka",
+    "pers": 6,
+    "date1": 20250308,
+    "date2": 20250308
+  },
+  {
+    "freq": 11650000,
+    "mode": "am",
     "time1": 400,
     "time2": 500,
     "days": "1234567",
@@ -103488,6 +104043,21 @@
     "freq": 11650000,
     "mode": "am",
     "time1": 330,
+    "time2": 345,
+    "days": "1234567",
+    "itu": "HOL",
+    "name": "Radio Tamazuj",
+    "lang": "Sudanese Arabic: Sudan and South Sudan (15m)",
+    "tgt": "South Sudan",
+    "src": "MDG",
+    "pers": 6,
+    "date1": 20250201,
+    "date2": 20250330
+  },
+  {
+    "freq": 11650000,
+    "mode": "am",
+    "time1": 330,
     "time2": 400,
     "days": "1234567",
     "itu": "HOL",
@@ -103495,9 +104065,9 @@
     "lang": "Sudanese Arabic: Sudan and South Sudan (15m)",
     "tgt": "South Sudan",
     "src": "MDG",
-    "pers": 0,
-    "date1": 0,
-    "date2": 0
+    "pers": 6,
+    "date1": 20241027,
+    "date2": 20250131
   },
   {
     "freq": 11650000,
@@ -103510,9 +104080,9 @@
     "lang": "English: UK (60m), USA (225m), India (200m), others",
     "tgt": "South Sudan",
     "src": "MDG",
-    "pers": 0,
-    "date1": 0,
-    "date2": 0
+    "pers": 6,
+    "date1": 20241027,
+    "date2": 20250131
   },
   {
     "freq": 11655000,
@@ -104552,6 +105122,66 @@
   {
     "freq": 11700000,
     "mode": "am",
+    "time1": 1900,
+    "time2": 1930,
+    "days": "1234567",
+    "itu": "USA",
+    "name": "Adventist World Radio",
+    "lang": "Haussa: Nigeria (19m), Niger (5m), Benin (1m)",
+    "tgt": "Nigeria",
+    "src": "D-n",
+    "pers": 6,
+    "date1": 20250122,
+    "date2": 20250329
+  },
+  {
+    "freq": 11700000,
+    "mode": "am",
+    "time1": 1930,
+    "time2": 2000,
+    "days": "1234567",
+    "itu": "USA",
+    "name": "Adventist World Radio",
+    "lang": "Igbo / Ibo: Nigeria (18m)",
+    "tgt": "Nigeria",
+    "src": "D-n",
+    "pers": 6,
+    "date1": 20250122,
+    "date2": 20250329
+  },
+  {
+    "freq": 11700000,
+    "mode": "am",
+    "time1": 2000,
+    "time2": 2030,
+    "days": "1234567",
+    "itu": "USA",
+    "name": "Adventist World Radio",
+    "lang": "Yoruba: Nigeria (20m), Benin (0.5m)",
+    "tgt": "Nigeria",
+    "src": "D-n",
+    "pers": 6,
+    "date1": 20250122,
+    "date2": 20250329
+  },
+  {
+    "freq": 11700000,
+    "mode": "am",
+    "time1": 2030,
+    "time2": 2100,
+    "days": "1234567",
+    "itu": "USA",
+    "name": "Adventist World Radio",
+    "lang": "Nigerian Pidgin: Nigeria (30m)",
+    "tgt": "Nigeria",
+    "src": "D-n",
+    "pers": 6,
+    "date1": 20250122,
+    "date2": 20250329
+  },
+  {
+    "freq": 11700000,
+    "mode": "am",
     "time1": 1230,
     "time2": 1330,
     "days": "1234567",
@@ -104577,7 +105207,7 @@
     "src": "CHN",
     "pers": 6,
     "date1": 20241227,
-    "date2": 20240330
+    "date2": 20250330
   },
   {
     "freq": 11705000,
@@ -104592,7 +105222,7 @@
     "src": "PHL-t",
     "pers": 6,
     "date1": 20241227,
-    "date2": 20240330
+    "date2": 20250330
   },
   {
     "freq": 11710000,
@@ -105175,9 +105805,24 @@
     "lang": "English: UK (60m), USA (225m), India (200m), others",
     "tgt": "South Oceania (Australia, New Zealand, Pacific Ocean)",
     "src": "NZL-r",
-    "pers": 0,
-    "date1": 0,
-    "date2": 0
+    "pers": 6,
+    "date1": 20241027,
+    "date2": 20250126
+  },
+  {
+    "freq": 11725000,
+    "mode": "am",
+    "time1": 1651,
+    "time2": 1858,
+    "days": "12345.7",
+    "itu": "NZL",
+    "name": "RNZ Pacific",
+    "lang": "English: UK (60m), USA (225m), India (200m), others",
+    "tgt": "South Oceania (Australia, New Zealand, Pacific Ocean)",
+    "src": "NZL-r",
+    "pers": 6,
+    "date1": 20250127,
+    "date2": 20250330
   },
   {
     "freq": 11725000,
@@ -105190,9 +105835,24 @@
     "lang": "English: UK (60m), USA (225m), India (200m), others",
     "tgt": "Oceania (Australia, New Zealand, Pacific Ocean)",
     "src": "NZL-r",
-    "pers": 0,
-    "date1": 0,
-    "date2": 0
+    "pers": 6,
+    "date1": 20241027,
+    "date2": 20250126
+  },
+  {
+    "freq": 11725000,
+    "mode": "am",
+    "time1": 1651,
+    "time2": 1858,
+    "days": ".....6.",
+    "itu": "NZL",
+    "name": "RNZ Pacific",
+    "lang": "English: UK (60m), USA (225m), India (200m), others",
+    "tgt": "Oceania (Australia, New Zealand, Pacific Ocean)",
+    "src": "NZL-r",
+    "pers": 6,
+    "date1": 20250127,
+    "date2": 20250330
   },
   {
     "freq": 11725000,
@@ -105208,6 +105868,36 @@
     "pers": 0,
     "date1": 0,
     "date2": 0
+  },
+  {
+    "freq": 11725000,
+    "mode": "am",
+    "time1": 1840,
+    "time2": 1850,
+    "days": "1234..7",
+    "itu": "NZL",
+    "name": "RNZ Pacific",
+    "lang": "Samoan: Samoa (0.2m), American Samoa (0.05m)",
+    "tgt": "Oceania (Australia, New Zealand, Pacific Ocean)",
+    "src": "NZL-r",
+    "pers": 6,
+    "date1": 20250127,
+    "date2": 20250330
+  },
+  {
+    "freq": 11725000,
+    "mode": "am",
+    "time1": 1852,
+    "time2": 1858,
+    "days": "12345..",
+    "itu": "NZL",
+    "name": "RNZ Pacific",
+    "lang": "Niuean: Niue (2,000)",
+    "tgt": "Oceania (Australia, New Zealand, Pacific Ocean)",
+    "src": "NZL-r",
+    "pers": 6,
+    "date1": 20250127,
+    "date2": 20250330
   },
   {
     "freq": 11725000,
@@ -105780,6 +106470,21 @@
     "date2": 0
   },
   {
+    "freq": 11750000,
+    "mode": "am",
+    "time1": 1430,
+    "time2": 1445,
+    "days": "....567",
+    "itu": "PHL",
+    "name": "FEBC Manila",
+    "lang": "RUM",
+    "tgt": "South East Asia",
+    "src": "PHL-b",
+    "pers": 1,
+    "date1": 20250310,
+    "date2": 0
+  },
+  {
     "freq": 11755000,
     "mode": "am",
     "time1": 1630,
@@ -105792,7 +106497,7 @@
     "src": "CVA",
     "pers": 6,
     "date1": 20241209,
-    "date2": 20240329
+    "date2": 20250329
   },
   {
     "freq": 11755000,
@@ -105807,7 +106512,7 @@
     "src": "CVA",
     "pers": 6,
     "date1": 20241209,
-    "date2": 20240329
+    "date2": 20250329
   },
   {
     "freq": 11755000,
@@ -105822,7 +106527,7 @@
     "src": "CVA",
     "pers": 6,
     "date1": 20241209,
-    "date2": 20240329
+    "date2": 20250329
   },
   {
     "freq": 11755000,
@@ -105837,7 +106542,7 @@
     "src": "CVA",
     "pers": 6,
     "date1": 20241209,
-    "date2": 20240329
+    "date2": 20250329
   },
   {
     "freq": 11760000,
@@ -107367,7 +108072,7 @@
     "src": "G-w",
     "pers": 6,
     "date1": 20241231,
-    "date2": 20240330
+    "date2": 20250330
   },
   {
     "freq": 11810000,
@@ -107972,6 +108677,21 @@
   {
     "freq": 11825000,
     "mode": "am",
+    "time1": 1200,
+    "time2": 1700,
+    "days": "1234567",
+    "itu": "CHN",
+    "name": "China Radio Int.",
+    "lang": "Mandarin (Standard Chinese / Beijing dialect): China (840m)",
+    "tgt": "Europe, incl. North Africa / Middle East",
+    "src": "CHN-ka",
+    "pers": 6,
+    "date1": 20250128,
+    "date2": 20250129
+  },
+  {
+    "freq": 11825000,
+    "mode": "am",
     "time1": 400,
     "time2": 430,
     "days": "1234567",
@@ -108042,7 +108762,7 @@
     "src": "CHN",
     "pers": 6,
     "date1": 20241127,
-    "date2": 20240330
+    "date2": 20250330
   },
   {
     "freq": 11830000,
@@ -108132,7 +108852,7 @@
     "src": "THA-u",
     "pers": 6,
     "date1": 20241127,
-    "date2": 20240330
+    "date2": 20250330
   },
   {
     "freq": 11830000,
@@ -108162,7 +108882,7 @@
     "src": "BOT",
     "pers": 6,
     "date1": 20241118,
-    "date2": 20240330
+    "date2": 20250330
   },
   {
     "freq": 11830000,
@@ -108207,7 +108927,7 @@
     "src": "CHN",
     "pers": 6,
     "date1": 20241227,
-    "date2": 20240330
+    "date2": 20250330
   },
   {
     "freq": 11850000,
@@ -108237,7 +108957,7 @@
     "src": "F-i",
     "pers": 6,
     "date1": 20250125,
-    "date2": 20240330
+    "date2": 20250330
   },
   {
     "freq": 11850000,
@@ -108267,7 +108987,7 @@
     "src": "KWT",
     "pers": 6,
     "date1": 20241101,
-    "date2": 20240329
+    "date2": 20250329
   },
   {
     "freq": 11850000,
@@ -108282,7 +109002,7 @@
     "src": "THA-u",
     "pers": 6,
     "date1": 20241227,
-    "date2": 20240330
+    "date2": 20250330
   },
   {
     "freq": 11850000,
@@ -108552,7 +109272,7 @@
     "src": "PHL-t",
     "pers": 6,
     "date1": 20241127,
-    "date2": 20240330
+    "date2": 20250330
   },
   {
     "freq": 11870000,
@@ -112262,6 +112982,21 @@
   {
     "freq": 12025000,
     "mode": "am",
+    "time1": 1200,
+    "time2": 1700,
+    "days": "1234567",
+    "itu": "CHN",
+    "name": "China Radio Int.",
+    "lang": "Mandarin (Standard Chinese / Beijing dialect): China (840m)",
+    "tgt": "Middle East",
+    "src": "CHN-u",
+    "pers": 6,
+    "date1": 20250128,
+    "date2": 20250129
+  },
+  {
+    "freq": 12025000,
+    "mode": "am",
     "time1": 800,
     "time2": 1300,
     "days": "xxxxxxx",
@@ -112572,22 +113307,7 @@
     "src": "OMA-a",
     "pers": 6,
     "date1": 20250112,
-    "date2": 20240330
-  },
-  {
-    "freq": 12030000,
-    "mode": "am",
-    "time1": 700,
-    "time2": 1200,
-    "days": ".....67",
-    "itu": "HOL",
-    "name": "Radio Delta Int.",
-    "lang": "Dutch: Netherlands (16m), Belgium (6m), Suriname (0.2m)",
-    "tgt": "Europe, incl. North Africa / Middle East",
-    "src": "HOL-e",
-    "pers": 4,
-    "date1": 0,
-    "date2": 0
+    "date2": 20250126
   },
   {
     "freq": 12030000,
@@ -112975,8 +113695,8 @@
     "lang": "Spanish / Castellano: Spain (30m), Latin America (336m), USA (34m)",
     "tgt": "Latin America",
     "src": "USA-b",
-    "pers": 8,
-    "date1": 0,
+    "pers": 1,
+    "date1": 20250205,
     "date2": 0
   },
   {
@@ -113208,6 +113928,36 @@
     "freq": 12065000,
     "mode": "am",
     "time1": 1430,
+    "time2": 1500,
+    "days": ".....6.",
+    "itu": "G",
+    "name": "BBC",
+    "lang": "Somali: Somalia (8m), Ethiopia (5m), Kenya (2m), Djibouti (0.3m)",
+    "tgt": "Eastern Africa",
+    "src": "UAE",
+    "pers": 6,
+    "date1": 20250201,
+    "date2": 20250205
+  },
+  {
+    "freq": 12065000,
+    "mode": "am",
+    "time1": 1430,
+    "time2": 1500,
+    "days": ".....6.",
+    "itu": "G",
+    "name": "BBC",
+    "lang": "Somali: Somalia (8m), Ethiopia (5m), Kenya (2m), Djibouti (0.3m)",
+    "tgt": "Eastern Africa",
+    "src": "UAE",
+    "pers": 6,
+    "date1": 20250215,
+    "date2": 20250226
+  },
+  {
+    "freq": 12065000,
+    "mode": "am",
+    "time1": 1430,
     "time2": 1600,
     "days": ".....6.",
     "itu": "G",
@@ -113218,6 +113968,36 @@
     "pers": 6,
     "date1": 20241102,
     "date2": 20241114
+  },
+  {
+    "freq": 12065000,
+    "mode": "am",
+    "time1": 1500,
+    "time2": 1600,
+    "days": ".....6.",
+    "itu": "G",
+    "name": "BBC",
+    "lang": "Somali: Somalia (8m), Ethiopia (5m), Kenya (2m), Djibouti (0.3m)",
+    "tgt": "Eastern Africa",
+    "src": "MDG",
+    "pers": 6,
+    "date1": 20250201,
+    "date2": 20250205
+  },
+  {
+    "freq": 12065000,
+    "mode": "am",
+    "time1": 1500,
+    "time2": 1600,
+    "days": ".....6.",
+    "itu": "G",
+    "name": "BBC",
+    "lang": "Somali: Somalia (8m), Ethiopia (5m), Kenya (2m), Djibouti (0.3m)",
+    "tgt": "Eastern Africa",
+    "src": "MDG",
+    "pers": 6,
+    "date1": 20250215,
+    "date2": 20250226
   },
   {
     "freq": 12065000,
@@ -113263,6 +114043,36 @@
     "pers": 6,
     "date1": 20241105,
     "date2": 20241114
+  },
+  {
+    "freq": 12065000,
+    "mode": "am",
+    "time1": 1600,
+    "time2": 1730,
+    "days": ".....6.",
+    "itu": "G",
+    "name": "BBC",
+    "lang": "Somali: Somalia (8m), Ethiopia (5m), Kenya (2m), Djibouti (0.3m)",
+    "tgt": "Eastern Africa",
+    "src": "G-w",
+    "pers": 6,
+    "date1": 20250201,
+    "date2": 20250205
+  },
+  {
+    "freq": 12065000,
+    "mode": "am",
+    "time1": 1600,
+    "time2": 1730,
+    "days": ".....6.",
+    "itu": "G",
+    "name": "BBC",
+    "lang": "Somali: Somalia (8m), Ethiopia (5m), Kenya (2m), Djibouti (0.3m)",
+    "tgt": "Eastern Africa",
+    "src": "G-w",
+    "pers": 6,
+    "date1": 20250215,
+    "date2": 20250226
   },
   {
     "freq": 12065000,
@@ -113322,7 +114132,7 @@
     "src": "POL-p",
     "pers": 1,
     "date1": 20241101,
-    "date2": 20240228
+    "date2": 20250228
   },
   {
     "freq": 12070000,
@@ -113607,7 +114417,22 @@
     "src": "OMA-a",
     "pers": 6,
     "date1": 20250112,
-    "date2": 20240330
+    "date2": 20250115
+  },
+  {
+    "freq": 12080000,
+    "mode": "am",
+    "time1": 1200,
+    "time2": 1400,
+    "days": "1234567",
+    "itu": "G",
+    "name": "BBC",
+    "lang": "English: UK (60m), USA (225m), India (200m), others",
+    "tgt": "South Asia",
+    "src": "OMA-a",
+    "pers": 6,
+    "date1": 20250116,
+    "date2": 20250330
   },
   {
     "freq": 12080000,
@@ -113741,8 +114566,8 @@
     "tgt": "Russian Federation",
     "src": "RUS-or",
     "pers": 1,
-    "date1": 20240301,
-    "date2": 20240331
+    "date1": 20250301,
+    "date2": 20250331
   },
   {
     "freq": 12093000,
@@ -113890,9 +114715,9 @@
     "lang": "English: UK (60m), USA (225m), India (200m), others",
     "tgt": "Eastern Africa",
     "src": "OMA-a",
-    "pers": 6,
-    "date1": 20241027,
-    "date2": 20250119
+    "pers": 0,
+    "date1": 0,
+    "date2": 0
   },
   {
     "freq": 12095000,
@@ -114446,8 +115271,8 @@
     "tgt": "Russian Federation",
     "src": "RUS-m",
     "pers": 1,
-    "date1": 20240301,
-    "date2": 20240331
+    "date1": 20250301,
+    "date2": 20250331
   },
   {
     "freq": 12139000,
@@ -114746,8 +115571,8 @@
     "tgt": "Russian Federation",
     "src": "RUS-m",
     "pers": 1,
-    "date1": 20240201,
-    "date2": 20240228
+    "date1": 20250201,
+    "date2": 20250228
   },
   {
     "freq": 12150000,
@@ -114972,7 +115797,7 @@
     "src": "POL-p",
     "pers": 1,
     "date1": 20241101,
-    "date2": 20240228
+    "date2": 20250228
   },
   {
     "freq": 12153000,
@@ -115031,8 +115856,8 @@
     "tgt": "Russian Federation",
     "src": "RUS-m",
     "pers": 1,
-    "date1": 20240201,
-    "date2": 20240228
+    "date1": 20250201,
+    "date2": 20250228
   },
   {
     "freq": 12159000,
@@ -115346,8 +116171,8 @@
     "tgt": "Russian Federation",
     "src": "RUS-m",
     "pers": 1,
-    "date1": 20240201,
-    "date2": 20240228
+    "date1": 20250201,
+    "date2": 20250228
   },
   {
     "freq": 12169000,
@@ -115451,8 +116276,8 @@
     "tgt": "Russian Federation",
     "src": "RUS-or",
     "pers": 1,
-    "date1": 20240301,
-    "date2": 20240331
+    "date1": 20250301,
+    "date2": 20250331
   },
   {
     "freq": 12189000,
@@ -115631,7 +116456,7 @@
     "tgt": "",
     "src": "POL-p",
     "pers": 1,
-    "date1": 20240301,
+    "date1": 20250301,
     "date2": 20240430
   },
   {
@@ -117026,7 +117851,7 @@
     "tgt": "",
     "src": "POL-p",
     "pers": 1,
-    "date1": 20240301,
+    "date1": 20250301,
     "date2": 20240430
   },
   {
@@ -117521,7 +118346,7 @@
     "tgt": "",
     "src": "POL-p",
     "pers": 1,
-    "date1": 20240301,
+    "date1": 20250301,
     "date2": 20240430
   },
   {
@@ -118905,6 +119730,21 @@
     "date2": 0
   },
   {
+    "freq": 12871000,
+    "mode": "cw",
+    "time1": 0,
+    "time2": 2400,
+    "days": "1234567",
+    "itu": "CHN",
+    "name": "XSG Shanghai Radio",
+    "lang": "Morse Station",
+    "tgt": "Far East",
+    "src": "CHN-sh",
+    "pers": 6,
+    "date1": 20250212,
+    "date2": 20250212
+  },
+  {
     "freq": 12880000,
     "mode": "am",
     "time1": 2130,
@@ -119157,7 +119997,7 @@
     "src": "POL-p",
     "pers": 1,
     "date1": 20241101,
-    "date2": 20240228
+    "date2": 20250228
   },
   {
     "freq": 12935000,
@@ -120056,7 +120896,7 @@
     "tgt": "",
     "src": "POL-p",
     "pers": 1,
-    "date1": 20240301,
+    "date1": 20250301,
     "date2": 20240430
   },
   {
@@ -121632,7 +122472,7 @@
     "src": "POL-p",
     "pers": 1,
     "date1": 20241101,
-    "date2": 20240228
+    "date2": 20250228
   },
   {
     "freq": 13368000,
@@ -121646,8 +122486,8 @@
     "tgt": "Russian Federation",
     "src": "RUS-m",
     "pers": 1,
-    "date1": 20240201,
-    "date2": 20240228
+    "date1": 20250201,
+    "date2": 20250228
   },
   {
     "freq": 13369000,
@@ -121676,8 +122516,8 @@
     "tgt": "Russian Federation",
     "src": "RUS-c",
     "pers": 1,
-    "date1": 20240201,
-    "date2": 20240228
+    "date1": 20250201,
+    "date2": 20250228
   },
   {
     "freq": 13374000,
@@ -121736,8 +122576,8 @@
     "tgt": "Russian Federation",
     "src": "RUS-c",
     "pers": 1,
-    "date1": 20240301,
-    "date2": 20240331
+    "date1": 20250301,
+    "date2": 20250331
   },
   {
     "freq": 13384000,
@@ -121751,8 +122591,8 @@
     "tgt": "Russian Federation",
     "src": "RUS-m",
     "pers": 1,
-    "date1": 20240301,
-    "date2": 20240331
+    "date1": 20250301,
+    "date2": 20250331
   },
   {
     "freq": 13392000,
@@ -121991,7 +122831,7 @@
     "tgt": "",
     "src": "POL-p",
     "pers": 1,
-    "date1": 20240301,
+    "date1": 20250301,
     "date2": 20240430
   },
   {
@@ -122021,7 +122861,7 @@
     "tgt": "",
     "src": "POL-p",
     "pers": 1,
-    "date1": 20240301,
+    "date1": 20250301,
     "date2": 20240430
   },
   {
@@ -122726,8 +123566,8 @@
     "tgt": "Russian Federation",
     "src": "RUS-m",
     "pers": 1,
-    "date1": 20240301,
-    "date2": 20240331
+    "date1": 20250301,
+    "date2": 20250331
   },
   {
     "freq": 13539000,
@@ -125222,6 +126062,21 @@
   {
     "freq": 13690000,
     "mode": "am",
+    "time1": 2330,
+    "time2": 230,
+    "days": ".......",
+    "itu": "CHN",
+    "name": "China Radio Int.",
+    "lang": "Mandarin (Standard Chinese / Beijing dialect): China (840m)",
+    "tgt": "South Asia",
+    "src": "CHN-u",
+    "pers": 6,
+    "date1": 20250307,
+    "date2": 20250308
+  },
+  {
+    "freq": 13690000,
+    "mode": "am",
     "time1": 959,
     "time2": 1258,
     "days": "1234567",
@@ -126042,7 +126897,7 @@
     "src": "CHN",
     "pers": 6,
     "date1": 20241227,
-    "date2": 20240330
+    "date2": 20250330
   },
   {
     "freq": 13745000,
@@ -126057,7 +126912,7 @@
     "src": "THA-u",
     "pers": 6,
     "date1": 20241227,
-    "date2": 20240330
+    "date2": 20250330
   },
   {
     "freq": 13750000,
@@ -126162,7 +127017,7 @@
     "src": "NZL-r",
     "pers": 6,
     "date1": 20250120,
-    "date2": 20240330
+    "date2": 20250330
   },
   {
     "freq": 13755000,
@@ -127352,6 +128207,21 @@
   {
     "freq": 13810000,
     "mode": "am",
+    "time1": 2330,
+    "time2": 230,
+    "days": ".......",
+    "itu": "CHN",
+    "name": "China Radio Int.",
+    "lang": "Mandarin (Standard Chinese / Beijing dialect): China (840m)",
+    "tgt": "Middle East",
+    "src": "CHN-u",
+    "pers": 6,
+    "date1": 20250307,
+    "date2": 20250308
+  },
+  {
+    "freq": 13810000,
+    "mode": "am",
     "time1": 1200,
     "time2": 1400,
     "days": "1234567",
@@ -127525,9 +128395,9 @@
     "lang": "Swahili / Kisuaheli: Tanzania (15m), Kenya, Ea.DR Congo (9m)",
     "tgt": "Eastern Africa",
     "src": "MDG",
-    "pers": 1,
-    "date1": 0,
-    "date2": 0
+    "pers": 6,
+    "date1": 20241027,
+    "date2": 20250131
   },
   {
     "freq": 13830000,
@@ -127540,9 +128410,9 @@
     "lang": "Swahili / Kisuaheli: Tanzania (15m), Kenya, Ea.DR Congo (9m)",
     "tgt": "Eastern Africa",
     "src": "MDG",
-    "pers": 1,
-    "date1": 0,
-    "date2": 0
+    "pers": 6,
+    "date1": 20241027,
+    "date2": 20250131
   },
   {
     "freq": 13830000,
@@ -127555,9 +128425,9 @@
     "lang": "Somali: Somalia (8m), Ethiopia (5m), Kenya (2m), Djibouti (0.3m)",
     "tgt": "Eastern Africa",
     "src": "MDG",
-    "pers": 1,
-    "date1": 0,
-    "date2": 0
+    "pers": 6,
+    "date1": 20241027,
+    "date2": 20250131
   },
   {
     "freq": 13830000,
@@ -127570,8 +128440,68 @@
     "lang": "English: UK (60m), USA (225m), India (200m), others",
     "tgt": "Eastern Africa",
     "src": "MDG",
+    "pers": 6,
+    "date1": 20241027,
+    "date2": 20250131
+  },
+  {
+    "freq": 13830000,
+    "mode": "am",
+    "time1": 1600,
+    "time2": 1615,
+    "days": ".....6.",
+    "itu": "CVA",
+    "name": "Radio Vaticana",
+    "lang": "Swahili / Kisuaheli: Tanzania (15m), Kenya, Ea.DR Congo (9m)",
+    "tgt": "Eastern Africa",
+    "src": "CVA",
     "pers": 1,
-    "date1": 0,
+    "date1": 20250201,
+    "date2": 0
+  },
+  {
+    "freq": 13830000,
+    "mode": "am",
+    "time1": 1600,
+    "time2": 1630,
+    "days": "1.....7",
+    "itu": "CVA",
+    "name": "Radio Vaticana",
+    "lang": "Swahili / Kisuaheli: Tanzania (15m), Kenya, Ea.DR Congo (9m)",
+    "tgt": "Eastern Africa",
+    "src": "CVA",
+    "pers": 1,
+    "date1": 20250201,
+    "date2": 0
+  },
+  {
+    "freq": 13830000,
+    "mode": "am",
+    "time1": 1615,
+    "time2": 1630,
+    "days": ".....6.",
+    "itu": "CVA",
+    "name": "Radio Vaticana",
+    "lang": "Somali: Somalia (8m), Ethiopia (5m), Kenya (2m), Djibouti (0.3m)",
+    "tgt": "Eastern Africa",
+    "src": "CVA",
+    "pers": 1,
+    "date1": 20250201,
+    "date2": 0
+  },
+  {
+    "freq": 13830000,
+    "mode": "am",
+    "time1": 1630,
+    "time2": 1700,
+    "days": "1234567",
+    "itu": "CVA",
+    "name": "Radio Vaticana",
+    "lang": "English: UK (60m), USA (225m), India (200m), others",
+    "tgt": "Eastern Africa",
+    "src": "CVA",
+    "pers": 1,
+    "date1": 20250201,
     "date2": 0
   },
   {
@@ -127635,6 +128565,21 @@
     "date2": 20241224
   },
   {
+    "freq": 13835000,
+    "mode": "am",
+    "time1": 2330,
+    "time2": 230,
+    "days": ".......",
+    "itu": "CHN",
+    "name": "China Radio Int.",
+    "lang": "Mandarin (Standard Chinese / Beijing dialect): China (840m)",
+    "tgt": "Europe, incl. North Africa / Middle East",
+    "src": "CHN-ka",
+    "pers": 6,
+    "date1": 20250307,
+    "date2": 20250308
+  },
+  {
     "freq": 13840000,
     "mode": "am",
     "time1": 2130,
@@ -127660,9 +128605,9 @@
     "lang": "English: UK (60m), USA (225m), India (200m), others",
     "tgt": "Oceania (Australia, New Zealand, Pacific Ocean)",
     "src": "NZL-r",
-    "pers": 0,
-    "date1": 0,
-    "date2": 0
+    "pers": 6,
+    "date1": 20241027,
+    "date2": 20250126
   },
   {
     "freq": 13840000,
@@ -127675,9 +128620,9 @@
     "lang": "Samoan: Samoa (0.2m), American Samoa (0.05m)",
     "tgt": "Oceania (Australia, New Zealand, Pacific Ocean)",
     "src": "NZL-r",
-    "pers": 0,
-    "date1": 0,
-    "date2": 0
+    "pers": 6,
+    "date1": 20241027,
+    "date2": 20250126
   },
   {
     "freq": 13840000,
@@ -127690,9 +128635,24 @@
     "lang": "Niuean: Niue (2,000)",
     "tgt": "Oceania (Australia, New Zealand, Pacific Ocean)",
     "src": "NZL-r",
-    "pers": 0,
-    "date1": 0,
-    "date2": 0
+    "pers": 6,
+    "date1": 20241027,
+    "date2": 20250126
+  },
+  {
+    "freq": 13840000,
+    "mode": "drm",
+    "time1": 1859,
+    "time2": 2058,
+    "days": "12345.7",
+    "itu": "NZL",
+    "name": "RNZ Pacific DIGITAL",
+    "lang": "English: UK (60m), USA (225m), India (200m), others",
+    "tgt": "Oceania (Australia, New Zealand, Pacific Ocean)",
+    "src": "NZL-r",
+    "pers": 6,
+    "date1": 20250127,
+    "date2": 20250330
   },
   {
     "freq": 13840000,
@@ -127917,7 +128877,7 @@
     "src": "ALG-o",
     "pers": 6,
     "date1": 20241201,
-    "date2": 20240330
+    "date2": 20250330
   },
   {
     "freq": 13855000,
@@ -128022,7 +128982,7 @@
     "src": "THA-u",
     "pers": 6,
     "date1": 20241118,
-    "date2": 20240329
+    "date2": 20250329
   },
   {
     "freq": 13860000,
@@ -128097,6 +129057,21 @@
     "src": "CHN",
     "pers": 1,
     "date1": 0,
+    "date2": 0
+  },
+  {
+    "freq": 13870000,
+    "mode": "am",
+    "time1": 100,
+    "time2": 130,
+    "days": "12345..",
+    "itu": "PHL",
+    "name": "FEBC Manila",
+    "lang": "Burmese / Barma / Myanmar: Myanmar (32m)",
+    "tgt": "South East Asia",
+    "src": "PHL-b",
+    "pers": 1,
+    "date1": 20250310,
     "date2": 0
   },
   {
@@ -128562,7 +129537,7 @@
     "src": "POL-p",
     "pers": 1,
     "date1": 20241101,
-    "date2": 20240228
+    "date2": 20250228
   },
   {
     "freq": 13920000,
@@ -129281,8 +130256,8 @@
     "tgt": "Russian Federation",
     "src": "RUS-m",
     "pers": 1,
-    "date1": 20240301,
-    "date2": 20240331
+    "date1": 20250301,
+    "date2": 20250331
   },
   {
     "freq": 13988500,
@@ -129416,8 +130391,8 @@
     "tgt": "Russian Federation",
     "src": "RUS-c",
     "pers": 1,
-    "date1": 20240201,
-    "date2": 20240228
+    "date1": 20250201,
+    "date2": 20250228
   },
   {
     "freq": 14365000,
@@ -129881,8 +130856,8 @@
     "tgt": "Russian Federation",
     "src": "RUS-m",
     "pers": 1,
-    "date1": 20240201,
-    "date2": 20240228
+    "date1": 20250201,
+    "date2": 20250228
   },
   {
     "freq": 14467300,
@@ -130151,8 +131126,8 @@
     "tgt": "Russian Federation",
     "src": "RUS-c",
     "pers": 1,
-    "date1": 20240301,
-    "date2": 20240331
+    "date1": 20250301,
+    "date2": 20250331
   },
   {
     "freq": 14571000,
@@ -130166,8 +131141,8 @@
     "tgt": "Russian Federation",
     "src": "RUS-m",
     "pers": 1,
-    "date1": 20240301,
-    "date2": 20240331
+    "date1": 20250301,
+    "date2": 20250331
   },
   {
     "freq": 14575000,
@@ -130347,7 +131322,7 @@
     "src": "POL-p",
     "pers": 1,
     "date1": 20241101,
-    "date2": 20240228
+    "date2": 20250228
   },
   {
     "freq": 14613000,
@@ -130526,8 +131501,8 @@
     "tgt": "Russian Federation",
     "src": "RUS-m",
     "pers": 1,
-    "date1": 20240301,
-    "date2": 20240331
+    "date1": 20250301,
+    "date2": 20250331
   },
   {
     "freq": 14648000,
@@ -131306,8 +132281,8 @@
     "tgt": "Russian Federation",
     "src": "RUS-m",
     "pers": 1,
-    "date1": 20240301,
-    "date2": 20240331
+    "date1": 20250301,
+    "date2": 20250331
   },
   {
     "freq": 14862000,
@@ -131336,7 +132311,7 @@
     "tgt": "",
     "src": "POL-p",
     "pers": 1,
-    "date1": 20240301,
+    "date1": 20250301,
     "date2": 20240430
   },
   {
@@ -132056,7 +133031,7 @@
     "tgt": "",
     "src": "POL-p",
     "pers": 1,
-    "date1": 20240301,
+    "date1": 20250301,
     "date2": 20240430
   },
   {
@@ -132987,7 +133962,7 @@
     "src": "ALG-o",
     "pers": 6,
     "date1": 20241201,
-    "date2": 20240330
+    "date2": 20250330
   },
   {
     "freq": 15140000,
@@ -133017,7 +133992,7 @@
     "src": "ALG-o",
     "pers": 6,
     "date1": 20241201,
-    "date2": 20240330
+    "date2": 20250330
   },
   {
     "freq": 15140000,
@@ -134037,7 +135012,7 @@
     "src": "CHN",
     "pers": 6,
     "date1": 20241227,
-    "date2": 20240330
+    "date2": 20250330
   },
   {
     "freq": 15215000,
@@ -134053,21 +135028,6 @@
     "pers": 1,
     "date1": 0,
     "date2": 0
-  },
-  {
-    "freq": 15215000,
-    "mode": "am",
-    "time1": 1600,
-    "time2": 1700,
-    "days": ".......",
-    "itu": "D",
-    "name": "Radio \u00d6\u00f6mrang",
-    "lang": "Lower German (varieties in N.Germany, USA:Pennsylvania Dutch)",
-    "tgt": "North America",
-    "src": "F-i",
-    "pers": 1,
-    "date1": 20250101,
-    "date2": 20240221
   },
   {
     "freq": 15215000,
@@ -134157,7 +135117,7 @@
     "src": "THA-u",
     "pers": 6,
     "date1": 20241227,
-    "date2": 20240330
+    "date2": 20250330
   },
   {
     "freq": 15220000,
@@ -135820,9 +136780,9 @@
     "lang": "Dari / Eastern Farsi: Afghanistan (7m), Pakistan (2m)",
     "tgt": "Afghanistan",
     "src": "OMA-a",
-    "pers": 0,
-    "date1": 0,
-    "date2": 0
+    "pers": 6,
+    "date1": 20241027,
+    "date2": 20250126
   },
   {
     "freq": 15310000,
@@ -135835,9 +136795,9 @@
     "lang": "Pashto / Pushtu: Afghanistan (6m), Pakistan (1m)",
     "tgt": "Afghanistan",
     "src": "OMA-a",
-    "pers": 0,
-    "date1": 0,
-    "date2": 0
+    "pers": 6,
+    "date1": 20241027,
+    "date2": 20250126
   },
   {
     "freq": 15310000,
@@ -135850,9 +136810,9 @@
     "lang": "Dari / Eastern Farsi: Afghanistan (7m), Pakistan (2m)",
     "tgt": "Afghanistan",
     "src": "OMA-a",
-    "pers": 0,
-    "date1": 0,
-    "date2": 0
+    "pers": 6,
+    "date1": 20241027,
+    "date2": 20250126
   },
   {
     "freq": 15310000,
@@ -135865,9 +136825,39 @@
     "lang": "Pashto / Pushtu: Afghanistan (6m), Pakistan (1m)",
     "tgt": "Afghanistan",
     "src": "OMA-a",
-    "pers": 0,
-    "date1": 0,
-    "date2": 0
+    "pers": 6,
+    "date1": 20241027,
+    "date2": 20250126
+  },
+  {
+    "freq": 15310000,
+    "mode": "am",
+    "time1": 830,
+    "time2": 930,
+    "days": "1234567",
+    "itu": "G",
+    "name": "BBC",
+    "lang": "Dari / Eastern Farsi: Afghanistan (7m), Pakistan (2m)",
+    "tgt": "Afghanistan",
+    "src": "OMA-a",
+    "pers": 6,
+    "date1": 20250127,
+    "date2": 20250330
+  },
+  {
+    "freq": 15310000,
+    "mode": "am",
+    "time1": 930,
+    "time2": 1030,
+    "days": "1234567",
+    "itu": "G",
+    "name": "BBC",
+    "lang": "Pashto / Pushtu: Afghanistan (6m), Pakistan (1m)",
+    "tgt": "Afghanistan",
+    "src": "OMA-a",
+    "pers": 6,
+    "date1": 20250127,
+    "date2": 20250330
   },
   {
     "freq": 15310000,
@@ -138542,6 +139532,36 @@
   {
     "freq": 15440000,
     "mode": "am",
+    "time1": 1700,
+    "time2": 2000,
+    "days": ".....6.",
+    "itu": "G",
+    "name": "BBC",
+    "lang": "Haussa: Nigeria (19m), Niger (5m), Benin (1m)",
+    "tgt": "Western Africa",
+    "src": "ASC",
+    "pers": 6,
+    "date1": 20250118,
+    "date2": 20250205
+  },
+  {
+    "freq": 15440000,
+    "mode": "am",
+    "time1": 1700,
+    "time2": 2000,
+    "days": ".....6.",
+    "itu": "G",
+    "name": "BBC",
+    "lang": "Haussa: Nigeria (19m), Niger (5m), Benin (1m)",
+    "tgt": "Western Africa",
+    "src": "ASC",
+    "pers": 6,
+    "date1": 20250222,
+    "date2": 20250226
+  },
+  {
+    "freq": 15440000,
+    "mode": "am",
     "time1": 1430,
     "time2": 1500,
     "days": "1234567",
@@ -138619,7 +139639,7 @@
     "mode": "am",
     "time1": 30,
     "time2": 45,
-    "days": "1234567",
+    "days": "....567",
     "itu": "PHL",
     "name": "FEBC Manila",
     "lang": "Chin-Mro: Myanmar-Rakhine,Chin (75,000)",
@@ -138687,6 +139707,66 @@
     "src": "PHL-b",
     "pers": 1,
     "date1": 0,
+    "date2": 0
+  },
+  {
+    "freq": 15450000,
+    "mode": "am",
+    "time1": 1300,
+    "time2": 1330,
+    "days": "1234567",
+    "itu": "HKG",
+    "name": "FEBC Radio Liangyou",
+    "lang": "Lisu: China-West Yunnan (0.6m), Burma (0.3m)",
+    "tgt": "South East Asia",
+    "src": "PHL-b",
+    "pers": 1,
+    "date1": 20250310,
+    "date2": 0
+  },
+  {
+    "freq": 15450000,
+    "mode": "am",
+    "time1": 1200,
+    "time2": 1215,
+    "days": "1234567",
+    "itu": "PHL",
+    "name": "FEBC Manila",
+    "lang": "Rawang: Myanmar-Kachin (60,000)",
+    "tgt": "South East Asia",
+    "src": "PHL-b",
+    "pers": 1,
+    "date1": 20250310,
+    "date2": 0
+  },
+  {
+    "freq": 15450000,
+    "mode": "am",
+    "time1": 1215,
+    "time2": 1245,
+    "days": "1234567",
+    "itu": "PHL",
+    "name": "FEBC Manila",
+    "lang": "Akha: Burma (0.2m), China-Yunnan (0.13m)",
+    "tgt": "South East Asia",
+    "src": "PHL-b",
+    "pers": 1,
+    "date1": 20250310,
+    "date2": 0
+  },
+  {
+    "freq": 15450000,
+    "mode": "am",
+    "time1": 1245,
+    "time2": 1300,
+    "days": "1234567",
+    "itu": "PHL",
+    "name": "FEBC Manila",
+    "lang": "Chin-Daai: Myanmar-Chin (37,000)",
+    "tgt": "South East Asia",
+    "src": "PHL-b",
+    "pers": 1,
+    "date1": 20250310,
     "date2": 0
   },
   {
@@ -138882,7 +139962,37 @@
     "src": "D-n",
     "pers": 6,
     "date1": 20241208,
-    "date2": 20240329
+    "date2": 20250329
+  },
+  {
+    "freq": 15460000,
+    "mode": "am",
+    "time1": 1800,
+    "time2": 1830,
+    "days": "1234567",
+    "itu": "USA",
+    "name": "Adventist World Radio",
+    "lang": "Tigrinya / Tigray: Ethiopia (4m), Eritrea (3m)",
+    "tgt": "Eastern Africa",
+    "src": "D-n",
+    "pers": 6,
+    "date1": 20250122,
+    "date2": 20250329
+  },
+  {
+    "freq": 15460000,
+    "mode": "am",
+    "time1": 1830,
+    "time2": 1900,
+    "days": "1234567",
+    "itu": "USA",
+    "name": "Adventist World Radio",
+    "lang": "Amharic: Ethiopia (22m)",
+    "tgt": "Eastern Africa",
+    "src": "D-n",
+    "pers": 6,
+    "date1": 20250122,
+    "date2": 20250329
   },
   {
     "freq": 15460000,
@@ -139315,7 +140425,7 @@
     "lang": "Mongolian: Mongolia (Halh; 2m), China (Peripheral; 3m)",
     "tgt": "Far East",
     "src": "GUM-a",
-    "pers": 0,
+    "pers": 8,
     "date1": 0,
     "date2": 0
   },
@@ -139437,6 +140547,21 @@
     "src": "KWT-k",
     "pers": 8,
     "date1": 0,
+    "date2": 0
+  },
+  {
+    "freq": 15515000,
+    "mode": "am",
+    "time1": 1000,
+    "time2": 1600,
+    "days": "1234567",
+    "itu": "PHL",
+    "name": "FEBC Manila",
+    "lang": "Mandarin (Standard Chinese / Beijing dialect): China (840m)",
+    "tgt": "Far East",
+    "src": "PHL-b",
+    "pers": 1,
+    "date1": 20250310,
     "date2": 0
   },
   {
@@ -139797,6 +140922,21 @@
     "src": "UZB",
     "pers": 5,
     "date1": 0,
+    "date2": 0
+  },
+  {
+    "freq": 15540000,
+    "mode": "am",
+    "time1": 1430,
+    "time2": 1500,
+    "days": "1234567",
+    "itu": "HKG",
+    "name": "FEBC Radio Liangyou",
+    "lang": "Uighur: China-Xinjiang (8m), Kazakhstan (0.3m)",
+    "tgt": "Far East",
+    "src": "PHL-b",
+    "pers": 1,
+    "date1": 20250310,
     "date2": 0
   },
   {
@@ -141010,8 +142150,8 @@
     "lang": "English: UK (60m), USA (225m), India (200m), others",
     "tgt": "Africa",
     "src": "USA-b",
-    "pers": 8,
-    "date1": 0,
+    "pers": 1,
+    "date1": 20250130,
     "date2": 0
   },
   {
@@ -141611,8 +142751,8 @@
     "tgt": "Russian Federation",
     "src": "RUS-c",
     "pers": 1,
-    "date1": 20240201,
-    "date2": 20240228
+    "date1": 20250201,
+    "date2": 20250228
   },
   {
     "freq": 15685000,
@@ -141692,15 +142832,30 @@
   {
     "freq": 15700000,
     "mode": "am",
-    "time1": 0,
-    "time2": 2400,
+    "time1": 500,
+    "time2": 2200,
     "days": "1234567",
     "itu": "DNK",
     "name": "World Music Radio",
     "lang": "English: UK (60m), USA (225m), India (200m), others",
     "tgt": "Europe, incl. North Africa / Middle East",
     "src": "DNK-ra",
-    "pers": 1,
+    "pers": 5,
+    "date1": 0,
+    "date2": 0
+  },
+  {
+    "freq": 15700000,
+    "mode": "am",
+    "time1": 700,
+    "time2": 1900,
+    "days": "1234567",
+    "itu": "DNK",
+    "name": "World Music Radio",
+    "lang": "English: UK (60m), USA (225m), India (200m), others",
+    "tgt": "Europe, incl. North Africa / Middle East",
+    "src": "DNK-ra",
+    "pers": 4,
     "date1": 0,
     "date2": 0
   },
@@ -141867,7 +143022,7 @@
     "src": "NZL-r",
     "pers": 6,
     "date1": 20241201,
-    "date2": 20240330
+    "date2": 20250126
   },
   {
     "freq": 15720000,
@@ -141897,7 +143052,7 @@
     "src": "NZL-r",
     "pers": 6,
     "date1": 20241201,
-    "date2": 20240330
+    "date2": 20250126
   },
   {
     "freq": 15720000,
@@ -141912,7 +143067,22 @@
     "src": "NZL-r",
     "pers": 6,
     "date1": 20241201,
-    "date2": 20240330
+    "date2": 20250126
+  },
+  {
+    "freq": 15720000,
+    "mode": "am",
+    "time1": 1859,
+    "time2": 2058,
+    "days": "1234567",
+    "itu": "NZL",
+    "name": "RNZ Pacific",
+    "lang": "English: UK (60m), USA (225m), India (200m), others",
+    "tgt": "Oceania (Australia, New Zealand, Pacific Ocean)",
+    "src": "NZL-r",
+    "pers": 6,
+    "date1": 20250127,
+    "date2": 20250330
   },
   {
     "freq": 15720000,
@@ -141927,7 +143097,7 @@
     "src": "NZL-r",
     "pers": 6,
     "date1": 20241201,
-    "date2": 20240330
+    "date2": 20250330
   },
   {
     "freq": 15720000,
@@ -141942,7 +143112,7 @@
     "src": "NZL-r",
     "pers": 6,
     "date1": 20241201,
-    "date2": 20240330
+    "date2": 20250330
   },
   {
     "freq": 15720000,
@@ -141986,7 +143156,7 @@
     "tgt": "",
     "src": "POL-p",
     "pers": 1,
-    "date1": 20240301,
+    "date1": 20250301,
     "date2": 20240430
   },
   {
@@ -142061,8 +143231,8 @@
     "tgt": "Russian Federation",
     "src": "RUS-c",
     "pers": 1,
-    "date1": 20240301,
-    "date2": 20240331
+    "date1": 20250301,
+    "date2": 20250331
   },
   {
     "freq": 15730000,
@@ -143066,8 +144236,8 @@
     "tgt": "Far East",
     "src": "RUS-kh",
     "pers": 1,
-    "date1": 20240201,
-    "date2": 20240228
+    "date1": 20250201,
+    "date2": 20250228
   },
   {
     "freq": 15817000,
@@ -143426,8 +144596,8 @@
     "tgt": "Russian Federation",
     "src": "RUS-m",
     "pers": 1,
-    "date1": 20240301,
-    "date2": 20240331
+    "date1": 20250301,
+    "date2": 20250331
   },
   {
     "freq": 15858000,
@@ -143441,8 +144611,8 @@
     "tgt": "Russian Federation",
     "src": "RUS-m",
     "pers": 1,
-    "date1": 20240201,
-    "date2": 20240228
+    "date1": 20250201,
+    "date2": 20250228
   },
   {
     "freq": 15870000,
@@ -143771,7 +144941,7 @@
     "tgt": "Far East",
     "src": "CHN",
     "pers": 1,
-    "date1": 20240331,
+    "date1": 20250331,
     "date2": 20240630
   },
   {
@@ -144956,8 +146126,8 @@
     "tgt": "Russian Federation",
     "src": "RUS-xx",
     "pers": 1,
-    "date1": 20240301,
-    "date2": 20240331
+    "date1": 20250301,
+    "date2": 20250331
   },
   {
     "freq": 16232000,
@@ -145211,8 +146381,8 @@
     "tgt": "Far East",
     "src": "RUS-kh",
     "pers": 1,
-    "date1": 20240301,
-    "date2": 20240331
+    "date1": 20250301,
+    "date2": 20250331
   },
   {
     "freq": 16284000,
@@ -145226,8 +146396,8 @@
     "tgt": "Russian Federation",
     "src": "RUS-m",
     "pers": 1,
-    "date1": 20240301,
-    "date2": 20240331
+    "date1": 20250301,
+    "date2": 20250331
   },
   {
     "freq": 16300000,
@@ -145406,8 +146576,8 @@
     "tgt": "Far East",
     "src": "RUS-kh",
     "pers": 1,
-    "date1": 20240201,
-    "date2": 20240228
+    "date1": 20250201,
+    "date2": 20250228
   },
   {
     "freq": 16317000,
@@ -145937,6 +147107,21 @@
   {
     "freq": 16600099,
     "mode": "am",
+    "time1": 1500,
+    "time2": 1600,
+    "days": "1234567",
+    "itu": "TWN",
+    "name": "Sound of Hope",
+    "lang": "Mandarin (Standard Chinese / Beijing dialect): China (840m)",
+    "tgt": "Far East",
+    "src": "TWN",
+    "pers": 1,
+    "date1": 0,
+    "date2": 0
+  },
+  {
+    "freq": 16600099,
+    "mode": "am",
     "time1": 2200,
     "time2": 2300,
     "days": "1234567",
@@ -146281,6 +147466,171 @@
   },
   {
     "freq": 16790000,
+    "mode": "am",
+    "time1": 2300,
+    "time2": 2400,
+    "days": "1234567",
+    "itu": "TWN",
+    "name": "Sound of Hope",
+    "lang": "Mandarin (Standard Chinese / Beijing dialect): China (840m)",
+    "tgt": "Far East",
+    "src": "TWN",
+    "pers": 1,
+    "date1": 0,
+    "date2": 0
+  },
+  {
+    "freq": 16800100,
+    "mode": "am",
+    "time1": 0,
+    "time2": 100,
+    "days": "1234567",
+    "itu": "TWN",
+    "name": "Sound of Hope",
+    "lang": "Mandarin (Standard Chinese / Beijing dialect): China (840m)",
+    "tgt": "Far East",
+    "src": "TWN",
+    "pers": 1,
+    "date1": 0,
+    "date2": 0
+  },
+  {
+    "freq": 16800100,
+    "mode": "am",
+    "time1": 100,
+    "time2": 200,
+    "days": "1234567",
+    "itu": "TWN",
+    "name": "Sound of Hope",
+    "lang": "Mandarin (Standard Chinese / Beijing dialect): China (840m)",
+    "tgt": "Far East",
+    "src": "TWN",
+    "pers": 1,
+    "date1": 0,
+    "date2": 0
+  },
+  {
+    "freq": 16800100,
+    "mode": "am",
+    "time1": 200,
+    "time2": 1200,
+    "days": "1234567",
+    "itu": "TWN",
+    "name": "Sound of Hope",
+    "lang": "Mandarin (Standard Chinese / Beijing dialect): China (840m)",
+    "tgt": "Far East",
+    "src": "TWN",
+    "pers": 1,
+    "date1": 0,
+    "date2": 0
+  },
+  {
+    "freq": 16800100,
+    "mode": "am",
+    "time1": 1200,
+    "time2": 1300,
+    "days": "1234567",
+    "itu": "TWN",
+    "name": "Sound of Hope",
+    "lang": "Mandarin (Standard Chinese / Beijing dialect): China (840m)",
+    "tgt": "Far East",
+    "src": "TWN",
+    "pers": 1,
+    "date1": 0,
+    "date2": 0
+  },
+  {
+    "freq": 16800100,
+    "mode": "am",
+    "time1": 1300,
+    "time2": 1400,
+    "days": "1234567",
+    "itu": "TWN",
+    "name": "Sound of Hope",
+    "lang": "Mandarin (Standard Chinese / Beijing dialect): China (840m)",
+    "tgt": "Far East",
+    "src": "TWN",
+    "pers": 1,
+    "date1": 0,
+    "date2": 0
+  },
+  {
+    "freq": 16800100,
+    "mode": "am",
+    "time1": 1400,
+    "time2": 1500,
+    "days": "1234567",
+    "itu": "TWN",
+    "name": "Sound of Hope",
+    "lang": "Mandarin (Standard Chinese / Beijing dialect): China (840m)",
+    "tgt": "Far East",
+    "src": "TWN",
+    "pers": 1,
+    "date1": 0,
+    "date2": 0
+  },
+  {
+    "freq": 16800100,
+    "mode": "am",
+    "time1": 1500,
+    "time2": 1600,
+    "days": "1234567",
+    "itu": "TWN",
+    "name": "Sound of Hope",
+    "lang": "Mandarin (Standard Chinese / Beijing dialect): China (840m)",
+    "tgt": "Far East",
+    "src": "TWN",
+    "pers": 1,
+    "date1": 0,
+    "date2": 0
+  },
+  {
+    "freq": 16800100,
+    "mode": "am",
+    "time1": 2100,
+    "time2": 2130,
+    "days": "1234567",
+    "itu": "TWN",
+    "name": "Sound of Hope",
+    "lang": "Mandarin (Standard Chinese / Beijing dialect): China (840m)",
+    "tgt": "Far East",
+    "src": "TWN",
+    "pers": 1,
+    "date1": 0,
+    "date2": 0
+  },
+  {
+    "freq": 16800100,
+    "mode": "am",
+    "time1": 2130,
+    "time2": 2200,
+    "days": "1234567",
+    "itu": "TWN",
+    "name": "Sound of Hope",
+    "lang": "Mandarin (Standard Chinese / Beijing dialect): China (840m)",
+    "tgt": "Far East",
+    "src": "TWN",
+    "pers": 1,
+    "date1": 0,
+    "date2": 0
+  },
+  {
+    "freq": 16800100,
+    "mode": "am",
+    "time1": 2200,
+    "time2": 2300,
+    "days": "1234567",
+    "itu": "TWN",
+    "name": "Sound of Hope",
+    "lang": "Mandarin (Standard Chinese / Beijing dialect): China (840m)",
+    "tgt": "Far East",
+    "src": "TWN",
+    "pers": 1,
+    "date1": 0,
+    "date2": 0
+  },
+  {
+    "freq": 16800100,
     "mode": "am",
     "time1": 2300,
     "time2": 2400,
@@ -147792,7 +149142,7 @@
     "src": "POL-p",
     "pers": 1,
     "date1": 20241101,
-    "date2": 20240228
+    "date2": 20250228
   },
   {
     "freq": 17378000,
@@ -147822,7 +149172,7 @@
     "src": "POL-p",
     "pers": 1,
     "date1": 20241101,
-    "date2": 20240228
+    "date2": 20250228
   },
   {
     "freq": 17392000,
@@ -148091,7 +149441,7 @@
     "tgt": "",
     "src": "POL-p",
     "pers": 1,
-    "date1": 20240301,
+    "date1": 20250301,
     "date2": 20240430
   },
   {
@@ -148331,8 +149681,8 @@
     "tgt": "Russian Federation",
     "src": "RUS-m",
     "pers": 1,
-    "date1": 20240301,
-    "date2": 20240331
+    "date1": 20250301,
+    "date2": 20250331
   },
   {
     "freq": 17452000,
@@ -148391,8 +149741,8 @@
     "tgt": "Russian Federation",
     "src": "RUS-xx",
     "pers": 1,
-    "date1": 20240201,
-    "date2": 20240228
+    "date1": 20250201,
+    "date2": 20250228
   },
   {
     "freq": 17470000,
@@ -148421,8 +149771,8 @@
     "tgt": "Far East",
     "src": "RUS-kh",
     "pers": 1,
-    "date1": 20240301,
-    "date2": 20240331
+    "date1": 20250301,
+    "date2": 20250331
   },
   {
     "freq": 17480000,
@@ -148740,6 +150090,21 @@
     "date2": 0
   },
   {
+    "freq": 17510000,
+    "mode": "am",
+    "time1": 2330,
+    "time2": 230,
+    "days": ".......",
+    "itu": "CHN",
+    "name": "China Radio Int.",
+    "lang": "Mandarin (Standard Chinese / Beijing dialect): China (840m)",
+    "tgt": "Oceania (Australia, New Zealand, Pacific Ocean)",
+    "src": "CHN-k",
+    "pers": 6,
+    "date1": 20250307,
+    "date2": 20250308
+  },
+  {
     "freq": 17515000,
     "mode": "am",
     "time1": 800,
@@ -149010,6 +150375,21 @@
     "date2": 20241130
   },
   {
+    "freq": 17525000,
+    "mode": "am",
+    "time1": 1730,
+    "time2": 2230,
+    "days": "12345.7",
+    "itu": "USA",
+    "name": "WMLK Bethel, PA",
+    "lang": "English: UK (60m), USA (225m), India (200m), others",
+    "tgt": "Europe, incl. North Africa / Middle East",
+    "src": "USA-bt",
+    "pers": 6,
+    "date1": 20250201,
+    "date2": 20250330
+  },
+  {
     "freq": 17530000,
     "mode": "am",
     "time1": 400,
@@ -149173,6 +150553,21 @@
     "pers": 0,
     "date1": 0,
     "date2": 0
+  },
+  {
+    "freq": 17540000,
+    "mode": "am",
+    "time1": 730,
+    "time2": 900,
+    "days": "1234567",
+    "itu": "CVA",
+    "name": "Radio Vaticana",
+    "lang": "English: UK (60m), USA (225m), India (200m), others",
+    "tgt": "Africa",
+    "src": "CVA",
+    "pers": 6,
+    "date1": 20250126,
+    "date2": 20250126
   },
   {
     "freq": 17540000,
@@ -149457,7 +150852,7 @@
     "src": "ROU-t",
     "pers": 6,
     "date1": 20250105,
-    "date2": 20240330
+    "date2": 20250330
   },
   {
     "freq": 17560000,
@@ -149667,7 +151062,7 @@
     "src": "CHN",
     "pers": 6,
     "date1": 20241227,
-    "date2": 20240330
+    "date2": 20250330
   },
   {
     "freq": 17575000,
@@ -149712,7 +151107,7 @@
     "src": "PHL-t",
     "pers": 6,
     "date1": 20241227,
-    "date2": 20240330
+    "date2": 20250330
   },
   {
     "freq": 17580000,
@@ -150645,6 +152040,36 @@
     "date2": 20241114
   },
   {
+    "freq": 17670000,
+    "mode": "am",
+    "time1": 1430,
+    "time2": 1730,
+    "days": ".....6.",
+    "itu": "G",
+    "name": "BBC",
+    "lang": "Haussa: Nigeria (19m), Niger (5m), Benin (1m)",
+    "tgt": "Western Africa",
+    "src": "ASC",
+    "pers": 6,
+    "date1": 20250201,
+    "date2": 20250205
+  },
+  {
+    "freq": 17670000,
+    "mode": "am",
+    "time1": 1430,
+    "time2": 1730,
+    "days": ".....6.",
+    "itu": "G",
+    "name": "BBC",
+    "lang": "Haussa: Nigeria (19m), Niger (5m), Benin (1m)",
+    "tgt": "Western Africa",
+    "src": "ASC",
+    "pers": 6,
+    "date1": 20250215,
+    "date2": 20250226
+  },
+  {
     "freq": 17675000,
     "mode": "am",
     "time1": 600,
@@ -150702,7 +152127,7 @@
     "src": "NZL-r",
     "pers": 6,
     "date1": 20250120,
-    "date2": 20240330
+    "date2": 20250330
   },
   {
     "freq": 17675000,
@@ -150732,7 +152157,7 @@
     "src": "NZL-r",
     "pers": 6,
     "date1": 20241201,
-    "date2": 20240330
+    "date2": 20250330
   },
   {
     "freq": 17675000,
@@ -150747,7 +152172,7 @@
     "src": "NZL-r",
     "pers": 6,
     "date1": 20241201,
-    "date2": 20240330
+    "date2": 20250330
   },
   {
     "freq": 17675000,
@@ -150827,6 +152252,21 @@
   {
     "freq": 17690000,
     "mode": "am",
+    "time1": 100,
+    "time2": 230,
+    "days": ".......",
+    "itu": "CHN",
+    "name": "China Radio Int.",
+    "lang": "Mandarin (Standard Chinese / Beijing dialect): China (840m)",
+    "tgt": "South East Asia",
+    "src": "CHN-x",
+    "pers": 6,
+    "date1": 20250308,
+    "date2": 20250308
+  },
+  {
+    "freq": 17690000,
+    "mode": "am",
     "time1": 0,
     "time2": 100,
     "days": "1234567",
@@ -150868,6 +152308,21 @@
     "pers": 0,
     "date1": 0,
     "date2": 0
+  },
+  {
+    "freq": 17690000,
+    "mode": "am",
+    "time1": 2330,
+    "time2": 2400,
+    "days": ".......",
+    "itu": "CHN",
+    "name": "China Radio Int.",
+    "lang": "Mandarin (Standard Chinese / Beijing dialect): China (840m)",
+    "tgt": "South East Asia",
+    "src": "CHN-x",
+    "pers": 6,
+    "date1": 20250307,
+    "date2": 20250307
   },
   {
     "freq": 17690000,
@@ -151122,7 +152577,7 @@
     "src": "ROU-t",
     "pers": 6,
     "date1": 20241220,
-    "date2": 20240330
+    "date2": 20250330
   },
   {
     "freq": 17700000,
@@ -151137,7 +152592,7 @@
     "src": "BOT",
     "pers": 6,
     "date1": 20241101,
-    "date2": 20240329
+    "date2": 20250329
   },
   {
     "freq": 17700000,
@@ -151540,8 +152995,23 @@
     "lang": "Burmese / Barma / Myanmar: Myanmar (32m)",
     "tgt": "Myanmar (Burma)",
     "src": "UAE",
+    "pers": 6,
+    "date1": 20241027,
+    "date2": 20250303
+  },
+  {
+    "freq": 17720000,
+    "mode": "am",
+    "time1": 1300,
+    "time2": 1350,
+    "days": "12345..",
+    "itu": "CLA",
+    "name": "Shan News Radio",
+    "lang": "Burmese / Barma / Myanmar: Myanmar (32m)",
+    "tgt": "Myanmar (Burma)",
+    "src": "UAE",
     "pers": 1,
-    "date1": 0,
+    "date1": 20250304,
     "date2": 0
   },
   {
@@ -151588,6 +153058,21 @@
     "pers": 0,
     "date1": 0,
     "date2": 0
+  },
+  {
+    "freq": 17730000,
+    "mode": "am",
+    "time1": 200,
+    "time2": 230,
+    "days": ".......",
+    "itu": "CHN",
+    "name": "China Radio Int.",
+    "lang": "English: UK (60m), USA (225m), India (200m), others",
+    "tgt": "South East Asia",
+    "src": "CHN-x",
+    "pers": 6,
+    "date1": 20250308,
+    "date2": 20250308
   },
   {
     "freq": 17730000,
@@ -152717,6 +154202,21 @@
   {
     "freq": 17810000,
     "mode": "am",
+    "time1": 630,
+    "time2": 700,
+    "days": "1234..7",
+    "itu": "G",
+    "name": "BBC",
+    "lang": "Arabic (300m)",
+    "tgt": "North Africa",
+    "src": "OMA-a",
+    "pers": 6,
+    "date1": 20250223,
+    "date2": 20250330
+  },
+  {
+    "freq": 17810000,
+    "mode": "am",
     "time1": 830,
     "time2": 900,
     "days": "....5..",
@@ -152725,9 +154225,9 @@
     "lang": "Dari / Eastern Farsi: Afghanistan (7m), Pakistan (2m)",
     "tgt": "Afghanistan",
     "src": "OMA-a",
-    "pers": 0,
-    "date1": 0,
-    "date2": 0
+    "pers": 6,
+    "date1": 20241027,
+    "date2": 20250126
   },
   {
     "freq": 17810000,
@@ -152740,9 +154240,9 @@
     "lang": "Dari / Eastern Farsi: Afghanistan (7m), Pakistan (2m)",
     "tgt": "Afghanistan",
     "src": "OMA-a",
-    "pers": 0,
-    "date1": 0,
-    "date2": 0
+    "pers": 6,
+    "date1": 20241027,
+    "date2": 20250126
   },
   {
     "freq": 17810000,
@@ -152755,9 +154255,9 @@
     "lang": "Pashto / Pushtu: Afghanistan (6m), Pakistan (1m)",
     "tgt": "Afghanistan",
     "src": "OMA-a",
-    "pers": 0,
-    "date1": 0,
-    "date2": 0
+    "pers": 6,
+    "date1": 20241027,
+    "date2": 20250126
   },
   {
     "freq": 17810000,
@@ -152770,9 +154270,9 @@
     "lang": "Dari / Eastern Farsi: Afghanistan (7m), Pakistan (2m)",
     "tgt": "Afghanistan",
     "src": "OMA-a",
-    "pers": 0,
-    "date1": 0,
-    "date2": 0
+    "pers": 6,
+    "date1": 20241027,
+    "date2": 20250126
   },
   {
     "freq": 17810000,
@@ -152785,9 +154285,39 @@
     "lang": "Pashto / Pushtu: Afghanistan (6m), Pakistan (1m)",
     "tgt": "Afghanistan",
     "src": "OMA-a",
-    "pers": 0,
-    "date1": 0,
-    "date2": 0
+    "pers": 6,
+    "date1": 20241027,
+    "date2": 20250126
+  },
+  {
+    "freq": 17810000,
+    "mode": "am",
+    "time1": 830,
+    "time2": 930,
+    "days": "1234567",
+    "itu": "G",
+    "name": "BBC",
+    "lang": "Dari / Eastern Farsi: Afghanistan (7m), Pakistan (2m)",
+    "tgt": "Afghanistan",
+    "src": "OMA-a",
+    "pers": 6,
+    "date1": 20250127,
+    "date2": 20250330
+  },
+  {
+    "freq": 17810000,
+    "mode": "am",
+    "time1": 930,
+    "time2": 1030,
+    "days": "1234567",
+    "itu": "G",
+    "name": "BBC",
+    "lang": "Pashto / Pushtu: Afghanistan (6m), Pakistan (1m)",
+    "tgt": "Afghanistan",
+    "src": "OMA-a",
+    "pers": 6,
+    "date1": 20250127,
+    "date2": 20250330
   },
   {
     "freq": 17810000,
@@ -152938,6 +154468,21 @@
     "pers": 1,
     "date1": 0,
     "date2": 0
+  },
+  {
+    "freq": 17830000,
+    "mode": "drm",
+    "time1": 2000,
+    "time2": 2100,
+    "days": "1234567",
+    "itu": "G",
+    "name": "BBC DIGITAL",
+    "lang": "English: UK (60m), USA (225m), India (200m), others",
+    "tgt": "North America",
+    "src": "G-w",
+    "pers": 6,
+    "date1": 20250225,
+    "date2": 20250306
   },
   {
     "freq": 17840000,
@@ -154346,7 +155891,7 @@
     "tgt": "",
     "src": "POL-p",
     "pers": 1,
-    "date1": 20240301,
+    "date1": 20250301,
     "date2": 20240430
   },
   {
@@ -154481,8 +156026,8 @@
     "tgt": "Far East",
     "src": "RUS-kh",
     "pers": 1,
-    "date1": 20240201,
-    "date2": 20240228
+    "date1": 20250201,
+    "date2": 20250228
   },
   {
     "freq": 18217000,
@@ -155066,8 +156611,8 @@
     "tgt": "Far East",
     "src": "RUS-kh",
     "pers": 1,
-    "date1": 20240301,
-    "date2": 20240331
+    "date1": 20250301,
+    "date2": 20250331
   },
   {
     "freq": 19184000,
@@ -155081,7 +156626,7 @@
     "tgt": "",
     "src": "POL-p",
     "pers": 1,
-    "date1": 20240301,
+    "date1": 20250301,
     "date2": 20240430
   },
   {
@@ -155156,8 +156701,8 @@
     "tgt": "Russian Federation",
     "src": "RUS-xx",
     "pers": 1,
-    "date1": 20240301,
-    "date2": 20240331
+    "date1": 20250301,
+    "date2": 20250331
   },
   {
     "freq": 19432000,
@@ -155186,7 +156731,7 @@
     "tgt": "",
     "src": "POL-p",
     "pers": 1,
-    "date1": 20240301,
+    "date1": 20250301,
     "date2": 20240430
   },
   {
@@ -155216,7 +156761,7 @@
     "tgt": "",
     "src": "POL-p",
     "pers": 1,
-    "date1": 20240301,
+    "date1": 20250301,
     "date2": 20240430
   },
   {
@@ -155516,8 +157061,8 @@
     "tgt": "Russian Federation",
     "src": "RUS-xx",
     "pers": 1,
-    "date1": 20240201,
-    "date2": 20240228
+    "date1": 20250201,
+    "date2": 20250228
   },
   {
     "freq": 20095000,
@@ -155621,7 +157166,7 @@
     "tgt": "",
     "src": "POL-p",
     "pers": 1,
-    "date1": 20240301,
+    "date1": 20250301,
     "date2": 20240430
   },
   {
@@ -156570,6 +158115,21 @@
     "date2": 0
   },
   {
+    "freq": 21660000,
+    "mode": "am",
+    "time1": 1700,
+    "time2": 1730,
+    "days": "......7",
+    "itu": "XUU",
+    "name": "Unknown Station",
+    "lang": "Swahili / Kisuaheli: Tanzania (15m), Kenya, Ea.DR Congo (9m)",
+    "tgt": "Eastern Africa",
+    "src": "ASC",
+    "pers": 6,
+    "date1": 20250301,
+    "date2": 20250330
+  },
+  {
     "freq": 21670000,
     "mode": "am",
     "time1": 900,
@@ -156851,7 +158411,7 @@
     "tgt": "",
     "src": "POL-p",
     "pers": 1,
-    "date1": 20240301,
+    "date1": 20250301,
     "date2": 20240430
   },
   {
@@ -156882,7 +158442,7 @@
     "src": "POL-p",
     "pers": 1,
     "date1": 20241101,
-    "date2": 20240228
+    "date2": 20250228
   },
   {
     "freq": 21925000,
@@ -157707,7 +159267,7 @@
     "src": "POL-p",
     "pers": 1,
     "date1": 20241101,
-    "date2": 20240228
+    "date2": 20250228
   },
   {
     "freq": 23004000,
@@ -157721,7 +159281,7 @@
     "tgt": "",
     "src": "POL-p",
     "pers": 1,
-    "date1": 20240301,
+    "date1": 20250301,
     "date2": 20240430
   },
   {
@@ -157767,7 +159327,7 @@
     "src": "POL-p",
     "pers": 1,
     "date1": 20241101,
-    "date2": 20240228
+    "date2": 20250228
   },
   {
     "freq": 23486000,
@@ -157782,7 +159342,7 @@
     "src": "POL-p",
     "pers": 1,
     "date1": 20241101,
-    "date2": 20240228
+    "date2": 20250228
   },
   {
     "freq": 23861500,

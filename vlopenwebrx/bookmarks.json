@@ -174,5 +174,21 @@
         "underlying": "",
         "description": "",
         "scannable": false
+    },
+    {
+        "name": "PI2NOS FM",
+        "frequency": 430125000,
+        "modulation": "nfm",
+        "underlying": "",
+        "description": "",
+        "scannable": true
+    },
+    {
+        "name": "PI2NOS YSF",
+        "frequency": 438000000,
+        "modulation": "ysf",
+        "underlying": "",
+        "description": "",
+        "scannable": true
     }
 ]

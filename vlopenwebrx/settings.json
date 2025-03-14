@@ -127,6 +127,87 @@
             "type": "sdrplay",
             "profiles": {
                 "5b84b7ca-1b0f-4836-b578-0063bb836cf0": {
+                    "name": "ADSB",
+                    "center_freq": 1090000000,
+                    "samp_rate": 2800000,
+                    "start_freq": 1090000000,
+                    "start_mod": "adsb",
+                    "tuning_step": 1,
+                    "direct_sampling": 0
+                },
+                "70cm": {
+                    "name": "70CM",
+                    "center_freq": 438800000,
+                    "samp_rate": 2800000,
+                    "start_freq": 439275000,
+                    "start_mod": "nfm",
+                    "tuning_step": 5000
+                },
+                "c9b89714-f506-4c83-aa27-39067bedd17f": {
+                    "name": "PMR446",
+                    "center_freq": 446093000,
+                    "samp_rate": 2800000,
+                    "start_freq": 446093000,
+                    "start_mod": "nfm",
+                    "tuning_step": 1
+                },
+                "2bd548c5-017a-4c91-b922-8f1b0db937fc": {
+                    "name": "433Mhz ISM",
+                    "center_freq": 433920000,
+                    "samp_rate": 2500000,
+                    "start_freq": 433920000,
+                    "start_mod": "ism",
+                    "tuning_step": 1
+                },
+                "c5cf905d-6d31-4da8-a867-c9e3842cc737": {
+                    "name": "DAB",
+                    "center_freq": 220352000,
+                    "samp_rate": 2800000,
+                    "start_freq": 220352000,
+                    "start_mod": "dab",
+                    "tuning_step": 1
+                },
+                "47a94eab-aa96-4d23-b25a-8c5436f5c4a4": {
+                    "name": "P2000",
+                    "center_freq": 169650000,
+                    "samp_rate": 2800000,
+                    "start_freq": 169650000,
+                    "start_mod": "page",
+                    "tuning_step": 1
+                },
+                "009549c7-5b34-4cfd-bb84-3473e6c84723": {
+                    "name": "AIS",
+                    "center_freq": 161975000,
+                    "samp_rate": 2800000,
+                    "start_freq": 161975000,
+                    "start_mod": "ais",
+                    "tuning_step": 1
+                },
+                "6b264aa0-49f9-4b00-8fed-a2dcc720b7dc": {
+                    "name": "AIRBAND",
+                    "center_freq": 120000000,
+                    "samp_rate": 2800000,
+                    "start_freq": 120000000,
+                    "start_mod": "am",
+                    "tuning_step": 1
+                },
+                "2m": {
+                    "name": "2M",
+                    "center_freq": 145000000,
+                    "samp_rate": 2800000,
+                    "start_freq": 145725000,
+                    "start_mod": "nfm",
+                    "tuning_step": 5000
+                },
+                "012ab05d-5713-4c16-a203-cf4fccb71198": {
+                    "name": "FM BROADCAST",
+                    "center_freq": 100000000,
+                    "samp_rate": 2800000,
+                    "start_freq": 102700000,
+                    "start_mod": "wfm",
+                    "tuning_step": 1
+                },
+                "4M": {
                     "name": "4M",
                     "center_freq": 70250000,
                     "samp_rate": 2048000,
@@ -280,7 +361,7 @@
     },
     "gps_updates": false,
     "photo_title": "PD7SVD",
-    "photo_desc": "RTL-SDR: UHF-VHF Antenna <br />\r\nRSP1A: EFHW for 10, 20, 40m",
+    "photo_desc": "RTL-SDR: UHF-VHF Antenna <br />\r\nRSP1A: EFHW for 10, 20, 40m OR a Fritzel GPA-404\r\n<br />\r\n<br />\r\nThe UHF-VHF Antenna is on top of a 5 section erected spiderbeam on top of our house (house is about 8m high), <br />\r\nThe EFHW is sloped down from that spiderbeam down to the roof of our garden shed (see <a href=\"https://www.qrz.com/db/PD7SVD\">QRZ.com</a> for pictures)\r\n\r\n",
     "max_clients": 20,
     "keep_files": 20,
     "session_timeout": 0,
@@ -310,14 +391,14 @@
     "eibi_bookmarks_range": 0,
     "repeater_range": 0,
     "map_type": "leaflet",
-    "google_maps_api_key": "",
+    "google_maps_api_key": "AIzaSyC81sb71Xv7Nn6h7rmQhrTrR93klaIPTCk",
     "openweathermap_api_key": "",
     "map_position_retention_time": 7200,
     "map_call_retention_time": 300,
     "map_max_calls": 5,
     "map_ignore_indirect_reports": false,
     "map_prefer_recent_reports": true,
-    "callsign_url": "https://www.qrzcq.com/call/{}",
+    "callsign_url": "https://www.qrz.com/call/{}",
     "vessel_url": "https://www.vesselfinder.com/vessels/details/{}",
     "flight_url": "https://flightaware.com/live/flight/{}",
     "modes_url": "https://flightaware.com/live/modes/{}/redirect",

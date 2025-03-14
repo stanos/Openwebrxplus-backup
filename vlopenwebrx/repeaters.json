@@ -3466,7 +3466,7 @@
     "freq": 438325000,
     "mode": "dstar",
     "status": "On-air",
-    "updated": "2025-01-24",
+    "updated": "2025-01-25",
     "comment": ""
   },
   {
@@ -4858,5 +4858,15 @@
     "status": "On-air",
     "updated": "2025-01-15",
     "comment": "Split-site station, TX watertoren Zwijnaarde, RX watertoren Kattenbereg Gent"
+  },
+  {
+    "name": "ON0PAJ",
+    "lat": 50.7684,
+    "lon": 3.93322,
+    "freq": 145687500,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2025-02-04",
+    "comment": ""
   }
 ]
